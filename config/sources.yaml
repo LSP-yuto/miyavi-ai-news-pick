@@ -41,23 +41,23 @@ sources:
     name: OpenAI
     type: rss
     url: https://openai.com/news/rss.xml
-    approved: false
+    approved: true
   - id: anthropic
     name: Anthropic
     type: html
     url: https://www.anthropic.com/news
     link_pattern: "/news/"
-    approved: false
+    approved: true
   - id: deepmind
     name: Google DeepMind
     type: rss
     url: https://deepmind.google/blog/rss.xml
-    approved: false
+    approved: true
   - id: google-ai
     name: Google
     type: rss
     url: https://blog.google/technology/ai/rss/
-    approved: false
+    approved: true
   - id: xai
     name: xAI
     type: html
@@ -96,7 +96,7 @@ sources:
     type: html
     url: https://sakana.ai/blog/
     link_pattern: "sakana.ai/"
-    approved: false
+    approved: true
 
   # ---- 解説枠 ----
   - id: fladdict-note
