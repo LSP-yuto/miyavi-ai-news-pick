@@ -31,7 +31,8 @@
     ],
     "deepmind": [
       "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-      "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/"
+      "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/"
     ],
     "google-ai": [
       "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/"
@@ -43,7 +44,9 @@
       "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
       "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
       "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
-      "https://blogs.nvidia.com/blog/ai-security-agent-stack/"
+      "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
+      "https://blogs.nvidia.com/blog/open-protein-dataset/",
+      "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/"
     ],
     "softbank": [
       "https://group.softbank/news/press/20260924",
@@ -67,7 +70,8 @@
       "https://about.fb.com/news/2026/09/new-features-for-meta-ray-ban-display-navigation-hologram/",
       "https://about.fb.com/news/2026/09/introducing-meta-vr-glasses-3d-movies-immersive-live-sports-100-grams/",
       "https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio-glasses-new-styles-plus-muse/",
-      "https://about.fb.com/news/2026/09/meta-spf-scam-efforts/"
+      "https://about.fb.com/news/2026/09/meta-spf-scam-efforts/",
+      "https://about.fb.com/news/2026/09/the-biggest-news-from-connect-2026/"
     ],
     "sakana": [
       "https://sakana.ai/frontier-intelligence-group/",
@@ -191,7 +195,8 @@
       "https://sakana.ai/nedo-grant/",
       "https://sakana.ai/seed-round/",
       "https://sakana.ai/company-info-old/",
-      "https://sakana.ai/"
+      "https://sakana.ai/",
+      "https://sakana.ai/schmidhuber/"
     ]
   }
 }
