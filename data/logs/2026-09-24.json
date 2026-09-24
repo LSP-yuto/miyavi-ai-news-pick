@@ -1,1 +1,343 @@
-[]
+[
+  {
+    "link": "https://openai.com/index/two-years-of-openai-academy",
+    "source": "openai",
+    "attempts": [
+      {
+        "result": {
+          "importance": 2,
+          "headline": "OpenAI Academy が2年目を迎え、より多くのコミュニティへのAI教育拡大へ",
+          "summary": "OpenAI Academyは開始から2年を経過し、AI関連スキルの教育をさらに多くのコミュニティに広げている。プログラムの進展と拡大の取り組みについて発表されたもの。",
+          "impact": "AI教育プログラムの拡大により、個人でビジネスをしている人が無料または低コストでAIスキルを習得する機会が増える可能性がある。",
+          "tags": [
+            "OpenAI"
+          ]
+        },
+        "problems": [
+          "見出しが長すぎる(43字 > 40字)"
+        ]
+      },
+      {
+        "result": {
+          "importance": 2,
+          "headline": "OpenAI Academy、2年目でAI教育をさらに拡大",
+          "summary": "OpenAI Academyは開始から2年を経過し、AI関連スキルの教育をさらに多くのコミュニティに広げている。プログラムの進展と拡大の取り組みについて発表されたもの。",
+          "impact": "AI教育プログラムの拡大により、個人でビジネスをしている人が無料または低コストでAIスキルを習得する機会が増える可能性がある。",
+          "tags": [
+            "OpenAI"
+          ]
+        },
+        "problems": [
+          "見出しが元文と似すぎている(一致率 42%)"
+        ]
+      },
+      {
+        "result": {
+          "importance": 2,
+          "headline": "OpenAIの教育イニシアティブ、2年の実績を踏まえ範囲を拡大",
+          "summary": "OpenAI Academyは開始から2年を経過し、AI関連スキルの教育をさらに多くのコミュニティに広げている。プログラムの進展と拡大の取り組みについて発表されたもの。",
+          "impact": "AI教育プログラムの拡大により、個人でビジネスをしている人が無料または低コストでAIスキルを習得する機会が増える可能性がある。",
+          "tags": [
+            "OpenAI"
+          ]
+        },
+        "problems": []
+      }
+    ],
+    "status": "skipped_low_importance"
+  },
+  {
+    "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+    "source": "openai",
+    "attempts": [
+      {
+        "result": {
+          "importance": 3,
+          "headline": "OpenAIがウクライナの民間インフラ防御を支援、サイバー防御プログラムを提供",
+          "summary": "OpenAIは、ウクライナ政府に対してDaybreakプログラムへのアクセスを拡大し、民間インフラのサイバー防御を支援することを発表しました。同プログラムを通じて、ウクライナはAIの技術支援を活用した防御体制の強化が可能になります。",
+          "impact": "個人事業主にとっては直接的な影響は限定的ですが、AIセキュリティツールの政府レベルでの活用事例として、今後のサイバー防御製品・サービスの開発トレンドに反映される可能性があります。",
+          "tags": [
+            "OpenAI",
+            "ウクライナ政府",
+            "Daybreak"
+          ]
+        },
+        "problems": []
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "source": "openai",
+    "attempts": [
+      {
+        "result": {
+          "importance": 3,
+          "headline": "OpenAI CEOが国連安全保障理事会でAI規制と国際協力を語る",
+          "summary": "OpenAI のSam Altman CEOが国連安全保障理事会で講演し、AI安全保障と人間による統制、国際的な協力の必要性について述べました。AIの発展がもたらすリスクへの対応と、グローバルレベルでの規制枠組み構築の重要性が主なテーマです。",
+          "impact": "AIの規制が国際的に議論される中、個人ビジネスで使用するAIツールの法的枠組みが今後より厳格になる可能性があります。",
+          "tags": [
+            "OpenAI",
+            "Sam Altman",
+            "国連"
+          ]
+        },
+        "problems": []
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "source": "anthropic",
+    "attempts": [
+      {
+        "result": {
+          "importance": 2,
+          "headline": "Anthropicの研究チームが未知の酵素システムを発見",
+          "summary": "AnthropicがAI研究部門で新たな生命科学ラボを立ち上げ、Claude AIが未知の機能を持つ酵素システムを発見しました。このシステムはCRISPRのような反復配列を含んでいるものの、具体的な役割はまだ解明されていません。",
+          "impact": "個人向けバイオテック企業やAI活用の研究者にとって、AIが新たな分子の探索に貢献する可能性が具体化したことで、研究開発の新しい手法が選択肢に加わります。",
+          "tags": [
+            "Anthropic",
+            "Claude"
+          ]
+        },
+        "problems": []
+      }
+    ],
+    "status": "skipped_low_importance"
+  },
+  {
+    "link": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+    "source": "anthropic",
+    "attempts": [
+      {
+        "result": {
+          "importance": 4,
+          "headline": "AnthropicがAccentureと提携、AI評価に10億ドル超を投資",
+          "summary": "AnthropicがAccentureと協力し、最先端AIの独立評価体制を構築する。両社は今後5年間で合計10億ドル以上をこの領域に投資し、Anthropicの社内に評価人員を配置する計画。AI安全性の客観的な検証態勢の強化が目的。",
+          "impact": "AIの信頼性評価が第三者によって強化されることで、個人ビジネスで導入するAIツールの安全性と信頼性の根拠が高まり、顧客への説明責任が果たしやすくなる。",
+          "tags": [
+            "Anthropic",
+            "Accenture"
+          ]
+        },
+        "problems": [
+          "見出しが元文と似すぎている(一致率 36%)"
+        ]
+      },
+      {
+        "result": {
+          "importance": 4,
+          "headline": "AnthropicとAccenture、AI安全評価に5年で10億ドル超を共同投資",
+          "summary": "AnthropicがAccentureと協力し、最先端AIの独立評価体制を構築する。両社は今後5年間で合計10億ドル以上をこの領域に投資し、Anthropicの社内に評価人員を配置する計画。AI安全性の客観的な検証態勢の強化が目的。",
+          "impact": "AIの信頼性評価が第三者によって強化されることで、個人ビジネスで導入するAIツールの安全性と信頼性の根拠が高まり、顧客への説明責任が果たしやすくなる。",
+          "tags": [
+            "Anthropic",
+            "Accenture"
+          ]
+        },
+        "problems": [
+          "見出しが長すぎる(41字 > 40字)"
+        ]
+      },
+      {
+        "result": {
+          "importance": 4,
+          "headline": "AnthropicとAccenture、AI評価に5年で10億ドル超を共同投資",
+          "summary": "AnthropicがAccentureと協力し、最先端AIの独立評価体制を構築する。両社は今後5年間で合計10億ドル以上をこの領域に投資し、Anthropicの社内に評価人員を配置する計画。AI安全性の客観的な検証態勢の強化が目的。",
+          "impact": "AIの信頼性評価が第三者によって強化されることで、個人ビジネスで導入するAIツールの安全性と信頼性の根拠が高まり、顧客への説明責任が果たしやすくなる。",
+          "tags": [
+            "Anthropic",
+            "Accenture"
+          ]
+        },
+        "problems": []
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "link": "https://www.anthropic.com/news/life-sciences-verification-program",
+    "source": "anthropic",
+    "attempts": [
+      {
+        "result": {
+          "importance": 2,
+          "headline": "Anthropicが生命科学向けの検証プログラムを開始",
+          "summary": "AnthropicはAIの安全性と研究に取り組む企業として、生命科学分野向けの新しい検証プログラムを導入しました。このプログラムは、信頼性が高く解釈可能で操作可能なAIシステムの構築を目指しています。",
+          "impact": "生命科学の分析にAIを活用する個人事業主は、Anthropicのプログラムを通じて検証済みのAIツールを利用でき、信頼性の高い結果を得られる可能性があります。",
+          "tags": [
+            "Anthropic",
+            "生命科学",
+            "AI検証"
+          ]
+        },
+        "problems": []
+      }
+    ],
+    "status": "skipped_low_importance"
+  },
+  {
+    "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "source": "deepmind",
+    "attempts": [
+      {
+        "result": {
+          "importance": 3,
+          "headline": "GoogleがプライベートAI計算にサーバー側メモリ機能を追加",
+          "summary": "GoogleのPrivate AI Computeに、サーバー側のセキュアなメモリ機能が追加されました。この新機能により、個人向けAIシステムにおいて、プライベートな環境でのデータ処理がより強化されます。",
+          "impact": "個人でAIツールを使う際に、処理データの個人情報がより安全に保護される仕組みが整備される",
+          "tags": [
+            "Google",
+            "DeepMind"
+          ]
+        },
+        "problems": []
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+    "source": "deepmind",
+    "attempts": [
+      {
+        "result": {
+          "importance": 2,
+          "headline": "Google DeepMindが音声合成の新版「Gemini 3.8」をリリース",
+          "summary": "Google DeepMindが、テキストを音声に変換する技術の新バージョン「Gemini 3.8」を発表しました。この音声合成機能は、より自然な音声出力を実現するものです。",
+          "impact": "個人ビジネスの音声コンテンツ制作やカスタマーサービス自動化の選択肢が増え、より質の高い音声出力を低コストで活用できる可能性があります。",
+          "tags": [
+            "Google DeepMind"
+          ]
+        },
+        "problems": []
+      }
+    ],
+    "status": "skipped_low_importance"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+    "source": "google-ai",
+    "attempts": [
+      {
+        "result": {
+          "importance": 2,
+          "headline": "Googleの数値処理プラットフォームが新規地域と提携先を拡大",
+          "summary": "GoogleはBeamサービスを複数の新しい地域に展開し、複数の新たなパートナーおよび顧客の獲得を発表しました。これにより、Beamの利用可能な環境が広がり、より多くの組織がこのプラットフォームにアクセスできるようになります。",
+          "impact": "個人事業者がデータ処理や分析基盤として利用できるGoogleサービスの選択肢が増え、より自分の地域や業界に適した構成での導入検討が可能になる可能性があります。",
+          "tags": [
+            "Google"
+          ]
+        },
+        "problems": []
+      }
+    ],
+    "status": "skipped_low_importance"
+  },
+  {
+    "link": "https://sakana.ai/frontier-intelligence-group/",
+    "source": "sakana",
+    "attempts": [
+      {
+        "result": {
+          "importance": 2,
+          "headline": "Sakana AIが新しい研究グループを設立",
+          "summary": "Sakana AIは「Frontier Intelligence Group(FIG)」という新しい研究グループを発表しました。このグループの具体的な役割や目的については概要に詳しく記載されていません。",
+          "impact": "詳細が明らかでないため、個人ビジネスへの具体的な影響は現時点では判断できません。",
+          "tags": [
+            "Sakana AI"
+          ]
+        },
+        "problems": [
+          "要約に元文と同じ文字列が 28 字続いている"
+        ]
+      },
+      {
+        "result": {
+          "importance": 2,
+          "headline": "Sakana AIが新組織「Frontier Intelligence Group」を開始",
+          "summary": "Sakana AIが研究部門として新しいグループを立ち上げました。具体的な活動内容や目標については、提供された情報に詳しい説明がありません。",
+          "impact": "詳細が不明のため、個人ビジネスへの具体的な影響は現時点では判断できません。",
+          "tags": [
+            "Sakana AI"
+          ]
+        },
+        "problems": [
+          "見出しが長すぎる(45字 > 40字)",
+          "見出しが元文と似すぎている(一致率 73%)",
+          "見出しに元文と同じ文字列が 25 字続いている"
+        ]
+      },
+      {
+        "result": {
+          "importance": 2,
+          "headline": "Sakana AIが新研究体制を発足",
+          "summary": "Sakana AIが研究部門として新しいグループを立ち上げました。具体的な活動内容や目標については、提供された情報に詳しい説明がありません。",
+          "impact": "詳細が不明のため、個人ビジネスへの具体的な影響は現時点では判断できません。",
+          "tags": [
+            "Sakana AI"
+          ]
+        },
+        "problems": [
+          "見出しが元文と似すぎている(一致率 36%)"
+        ]
+      }
+    ],
+    "status": "held"
+  },
+  {
+    "link": "https://sakana.ai/inside-product-team/",
+    "source": "sakana",
+    "attempts": [
+      {
+        "result": {
+          "importance": 2,
+          "headline": "Sakana AIの製品開発体制が明らかに",
+          "summary": "Sakana AIが自社の製品チームについて情報を公開しました。同社のプロダクト開発の体制や方針に関する内容です。",
+          "impact": "AI企業の製品開発プロセスを理解することで、今後リリースされるSakana AIのツールやサービスの特性を予測しやすくなります。",
+          "tags": [
+            "Sakana AI"
+          ]
+        },
+        "problems": []
+      }
+    ],
+    "status": "skipped_low_importance"
+  },
+  {
+    "link": "https://sakana.ai/chat-fugumax/",
+    "source": "sakana",
+    "attempts": [
+      {
+        "result": {
+          "importance": 2,
+          "headline": "Sakana Chatが最新モデルに更新、会話履歴の記憶機能を実装",
+          "summary": "Sakana Chatがアップデートされ、より新しいAIモデルを搭載しました。また、ユーザーとの過去の会話を記憶する機能が追加されています。これにより、継続的な対話がより効率的に行えるようになります。",
+          "impact": "Sakana Chatを業務で使用する場合、毎回同じ文脈を説明する手間が減り、継続的なプロジェクトの相談がしやすくなります。",
+          "tags": [
+            "Sakana AI"
+          ]
+        },
+        "problems": [
+          "見出しが元文と似すぎている(一致率 36%)"
+        ]
+      },
+      {
+        "result": {
+          "importance": 2,
+          "headline": "Sakana Chatがモデルアップグレード、対話の文脈を保持する機能を実装",
+          "summary": "Sakana Chatがアップデートされ、より新しいAIモデルを搭載しました。また、ユーザーとの過去の会話を記憶する機能が追加されています。これにより、継続的な対話がより効率的に行えるようになります。",
+          "impact": "Sakana Chatを業務で使用する場合、毎回同じ文脈を説明する手間が減り、継続的なプロジェクトの相談がしやすくなります。",
+          "tags": [
+            "Sakana AI"
+          ]
+        },
+        "problems": []
+      }
+    ],
+    "status": "skipped_low_importance"
+  }
+]

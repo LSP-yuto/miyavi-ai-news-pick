@@ -1,1 +1,60 @@
-[]
+[
+  {
+    "source_id": "openai",
+    "source_name": "OpenAI",
+    "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+    "published": "2026-09-23T13:00:00+00:00",
+    "importance": 3,
+    "headline": "OpenAIがウクライナの民間インフラ防御を支援、サイバー防御プログラムを提供",
+    "summary": "OpenAIは、ウクライナ政府に対してDaybreakプログラムへのアクセスを拡大し、民間インフラのサイバー防御を支援することを発表しました。同プログラムを通じて、ウクライナはAIの技術支援を活用した防御体制の強化が可能になります。",
+    "impact": "個人事業主にとっては直接的な影響は限定的ですが、AIセキュリティツールの政府レベルでの活用事例として、今後のサイバー防御製品・サービスの開発トレンドに反映される可能性があります。",
+    "tags": [
+      "OpenAI",
+      "ウクライナ政府",
+      "Daybreak"
+    ]
+  },
+  {
+    "source_id": "openai",
+    "source_name": "OpenAI",
+    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "published": "2026-09-23T12:00:00+00:00",
+    "importance": 3,
+    "headline": "OpenAI CEOが国連安全保障理事会でAI規制と国際協力を語る",
+    "summary": "OpenAI のSam Altman CEOが国連安全保障理事会で講演し、AI安全保障と人間による統制、国際的な協力の必要性について述べました。AIの発展がもたらすリスクへの対応と、グローバルレベルでの規制枠組み構築の重要性が主なテーマです。",
+    "impact": "AIの規制が国際的に議論される中、個人ビジネスで使用するAIツールの法的枠組みが今後より厳格になる可能性があります。",
+    "tags": [
+      "OpenAI",
+      "Sam Altman",
+      "国連"
+    ]
+  },
+  {
+    "source_id": "anthropic",
+    "source_name": "Anthropic",
+    "link": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+    "published": null,
+    "importance": 4,
+    "headline": "AnthropicとAccenture、AI評価に5年で10億ドル超を共同投資",
+    "summary": "AnthropicがAccentureと協力し、最先端AIの独立評価体制を構築する。両社は今後5年間で合計10億ドル以上をこの領域に投資し、Anthropicの社内に評価人員を配置する計画。AI安全性の客観的な検証態勢の強化が目的。",
+    "impact": "AIの信頼性評価が第三者によって強化されることで、個人ビジネスで導入するAIツールの安全性と信頼性の根拠が高まり、顧客への説明責任が果たしやすくなる。",
+    "tags": [
+      "Anthropic",
+      "Accenture"
+    ]
+  },
+  {
+    "source_id": "deepmind",
+    "source_name": "Google DeepMind",
+    "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "published": "2026-09-23T16:00:57+00:00",
+    "importance": 3,
+    "headline": "GoogleがプライベートAI計算にサーバー側メモリ機能を追加",
+    "summary": "GoogleのPrivate AI Computeに、サーバー側のセキュアなメモリ機能が追加されました。この新機能により、個人向けAIシステムにおいて、プライベートな環境でのデータ処理がより強化されます。",
+    "impact": "個人でAIツールを使う際に、処理データの個人情報がより安全に保護される仕組みが整備される",
+    "tags": [
+      "Google",
+      "DeepMind"
+    ]
+  }
+]
