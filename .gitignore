@@ -1,0 +1,5 @@
+site_demo/
+demo_data/
+__pycache__/
+*.pyc
+.env

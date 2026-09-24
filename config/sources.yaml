@@ -1,0 +1,131 @@
+# =========================================================
+# AIニュースピック 設定ファイル
+# ---------------------------------------------------------
+# approved: true にしたソースだけが収集されます(許可リスト方式)。
+# 各ソースの利用規約を自分で確認し、問題ないものだけ true にしてください。
+# URLは実装時点の想定です。最初に一度、ブラウザで開けるか確認してください。
+# =========================================================
+
+site:
+  title: "夢叶のAIニュースピック"
+  description: "AIの主要プレイヤーの動きを、個人ビジネスの目線で毎朝まとめています。"
+  author: "夢叶"
+  base_url: ""               # 例: https://yourname.github.io/ai-news-pick
+  top_days: 3                # トップページに表示する日数
+  cta:
+    text: "LINEで最新情報を受け取る"
+    url: "https://example.com"   # ← LINE登録URLなどに差し替え
+    note: "週末には、夢叶が選んだ今週のTOP3と見解をお届けしています。"
+
+ai:
+  model: "claude-haiku-4-5-20251001"
+  max_retries: 2             # 安全チェック不合格時の書き直し回数
+
+safety:
+  summary_max_chars: 150     # 要約の上限文字数
+  headline_max_chars: 40     # 見出しの上限文字数
+  ngram_size: 4              # 類似度判定に使う文字n-gram
+  ngram_overlap_max: 0.35    # 元文との n-gram 一致率の上限
+  common_run_max: 18         # 元文と連続一致してよい最大文字数
+  input_max_chars: 300       # AIに渡す概要の上限(全文は渡さない)
+
+collect:
+  max_items_per_run: 40      # 1回の実行で要約する最大件数(コスト上限)
+  max_age_days: 3            # RSSはこの日数より古い記事を無視
+  bootstrap_items: 3         # 新しく追加したソースの初回は最新N件だけ処理
+  min_importance: 3          # 重要度(1〜5)がこれ未満は公開しない
+
+sources:
+  # ---- モデル企業 ----
+  - id: openai
+    name: OpenAI
+    type: rss
+    url: https://openai.com/news/rss.xml
+    approved: false
+  - id: anthropic
+    name: Anthropic
+    type: html
+    url: https://www.anthropic.com/news
+    link_pattern: "/news/"
+    approved: false
+  - id: deepmind
+    name: Google DeepMind
+    type: rss
+    url: https://deepmind.google/blog/rss.xml
+    approved: false
+  - id: google-ai
+    name: Google
+    type: rss
+    url: https://blog.google/technology/ai/rss/
+    approved: false
+  - id: xai
+    name: xAI
+    type: html
+    url: https://x.ai/news
+    link_pattern: "/news/"
+    approved: false
+
+  # ---- インフラとお金 ----
+  - id: nvidia
+    name: NVIDIA
+    type: rss
+    url: https://blogs.nvidia.com/feed/
+    approved: false
+  - id: softbank
+    name: ソフトバンクグループ
+    type: html
+    url: https://group.softbank/news
+    link_pattern: "/news/"
+    approved: false
+
+  # ---- 実務への浸透 ----
+  - id: microsoft
+    name: Microsoft
+    type: rss
+    url: https://blogs.microsoft.com/feed/
+    approved: false
+  - id: meta
+    name: Meta
+    type: rss
+    url: https://about.fb.com/news/feed/
+    approved: false
+
+  # ---- 日本のAI ----
+  - id: sakana
+    name: Sakana AI
+    type: html
+    url: https://sakana.ai/blog/
+    link_pattern: "sakana.ai/"
+    approved: false
+
+  # ---- 解説枠 ----
+  - id: fladdict-note
+    name: 深津貴之(note)
+    type: rss
+    url: https://note.com/fladdict/rss
+    approved: false
+  - id: karpathy-youtube
+    name: Andrej Karpathy(YouTube)
+    type: rss
+    # チャンネルIDは要確認。YouTubeのチャンネルページから取得してください
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ
+    approved: false
+
+  # ---- 人物の発言(ニュース検索RSS) ----
+  # ニュース検索系は規約で商用・集客目的の利用が制限されている場合があります。
+  # 規約を確認し、問題ない場合のみ true にしてください。
+  - id: news-musk
+    name: ニュース検索(イーロン・マスク AI)
+    type: rss
+    url: https://news.google.com/rss/search?q=%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF+xAI&hl=ja&gl=JP&ceid=JP:ja
+    approved: false
+  - id: news-altman
+    name: ニュース検索(サム・アルトマン)
+    type: rss
+    url: https://news.google.com/rss/search?q=%E3%82%A2%E3%83%AB%E3%83%88%E3%83%9E%E3%83%B3+OpenAI&hl=ja&gl=JP&ceid=JP:ja
+    approved: false
+  - id: news-son
+    name: ニュース検索(孫正義 AI)
+    type: rss
+    url: https://news.google.com/rss/search?q=%E5%AD%AB%E6%AD%A3%E7%BE%A9+AI&hl=ja&gl=JP&ceid=JP:ja
+    approved: false
