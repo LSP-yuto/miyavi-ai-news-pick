@@ -70,25 +70,25 @@ sources:
     name: NVIDIA
     type: rss
     url: https://blogs.nvidia.com/feed/
-    approved: false
+    approved: true
   - id: softbank
     name: ソフトバンクグループ
     type: html
     url: https://group.softbank/news
     link_pattern: "/news/"
-    approved: false
+    approved: true
 
   # ---- 実務への浸透 ----
   - id: microsoft
     name: Microsoft
     type: rss
     url: https://blogs.microsoft.com/feed/
-    approved: false
+    approved: true
   - id: meta
     name: Meta
     type: rss
     url: https://about.fb.com/news/feed/
-    approved: false
+    approved: true
 
   # ---- 日本のAI ----
   - id: sakana
