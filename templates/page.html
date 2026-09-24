@@ -39,11 +39,14 @@ header.site nav a{font-size:14px;color:var(--muted)}
 .item{padding:26px 0;border-bottom:1px solid var(--line)}
 .item .src{font-size:14px;color:var(--teal);font-weight:700;margin:0}
 .item h3{font-family:var(--serif);font-weight:600;font-size:22px;line-height:1.5;margin:4px 0 10px}
-.item .summary{margin:0 0 12px}
-.item .impact{margin:0 0 12px;font-weight:700}
-.item .impact span{background:linear-gradient(transparent 55%,var(--mark) 55%);box-decoration-break:clone;-webkit-box-decoration-break:clone;padding:0 2px}
-.item .impact small{display:block;font-weight:400;font-size:13px;color:var(--muted);margin-bottom:2px}
+.item .fact{margin:0 0 10px}
+.item .why{margin:0 0 16px;color:var(--muted)}
+.item .personas{display:grid;gap:10px;margin:0 0 14px}
+.item .persona{padding:10px 12px;border-left:3px solid var(--teal);background:var(--card);border-radius:2px}
+.item .persona small{display:block;font-weight:700;font-size:13px;color:var(--teal);margin-bottom:3px}
+.item .persona p{margin:0;font-weight:700}
 .item .more{font-size:14px}
+@media (min-width:560px){.item .personas{grid-template-columns:1fr 1fr}}
 
 .cta{margin:44px 0;padding:28px 24px;background:var(--card);border:1px solid var(--line);border-radius:6px}
 .cta p{margin:0 0 16px}
@@ -93,8 +96,12 @@ footer{padding:32px 0 48px;font-size:13px;color:var(--muted)}
     <article class="item">
       <p class="src">{{ it.source_name }}</p>
       <h3>{{ it.headline }}</h3>
-      <p class="summary">{{ it.summary }}</p>
-      <p class="impact"><small>個人ビジネスへの影響</small><span>{{ it.impact }}</span></p>
+      <p class="fact">{{ it.fact }}</p>
+      <p class="why">{{ it.why }}</p>
+      <div class="personas">
+        <div class="persona"><small>代理店の方へ</small><p>{{ it.for_agency }}</p></div>
+        <div class="persona"><small>一人起業家の方へ</small><p>{{ it.for_solo }}</p></div>
+      </div>
       <a class="more" href="{{ it.link }}" target="_blank" rel="noopener">元記事を読む({{ it.source_name }})</a>
     </article>
     {% endfor %}
@@ -109,7 +116,7 @@ footer{padding:32px 0 48px;font-size:13px;color:var(--muted)}
   {% endif %}
 
   <footer>
-    <p>要約は、元記事のタイトルと概要をもとにAIが作成しています。正確な内容は各元記事でご確認ください。記事の著作権は各発行元に帰属します。</p>
+    <p>「何が起きたか」「なぜ重要か」「どう使えるか」は、元記事のタイトルと概要をもとにMiyaviが独自に作成しています。元記事の文章の要約・転載ではありません。正確な内容は各元記事でご確認ください。</p>
     <p>© {{ site.author }}</p>
   </footer>
 </div>

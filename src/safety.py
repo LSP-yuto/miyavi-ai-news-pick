@@ -1,5 +1,5 @@
-"""転載・翻案リスクを下げるための機械チェック。
-法的判断を代替するものではなく、「元の言い回しに近すぎないか」を数値で弾く安全装置。
+"""転載・翻案リスクと、断定的な言い切りを下げるための機械チェック。
+法的判断を代替するものではなく、「元の言い回しに近すぎないか」「言い切っていないか」を数値・語で弾く安全装置。
 """
 from __future__ import annotations
 
@@ -36,23 +36,39 @@ def check(result: dict, item: dict, cfg: dict) -> list[str]:
     """問題点のリストを返す。空なら合格。"""
     s = cfg["safety"]
     problems = []
-    headline, summary, impact = (result.get(k, "") for k in ("headline", "summary", "impact"))
+    headline, fact, why, for_agency, for_solo = (
+        result.get(k, "") for k in ("headline", "fact", "why", "for_agency", "for_solo")
+    )
     source_text = f"{item.get('title', '')} {item.get('excerpt', '')}"
 
-    if not headline or not summary or not impact:
-        problems.append("見出し・要約・影響コメントのいずれかが空")
+    if not headline or not fact or not why or not for_agency or not for_solo:
+        problems.append("headline・fact・why・for_agency・for_soloのいずれかが空")
     if len(headline) > s["headline_max_chars"]:
         problems.append(f"見出しが長すぎる({len(headline)}字 > {s['headline_max_chars']}字)")
-    if len(summary) > s["summary_max_chars"]:
-        problems.append(f"要約が長すぎる({len(summary)}字 > {s['summary_max_chars']}字)")
+    if len(fact) > s["fact_max_chars"]:
+        problems.append(f"factが長すぎる({len(fact)}字 > {s['fact_max_chars']}字)")
+    if len(why) > s["why_max_chars"]:
+        problems.append(f"whyが長すぎる({len(why)}字 > {s['why_max_chars']}字)")
+    for label, text in (("for_agency", for_agency), ("for_solo", for_solo)):
+        if len(text) > s["impact_max_chars"]:
+            problems.append(f"{label}が長すぎる({len(text)}字 > {s['impact_max_chars']}字)")
     if not item.get("link", "").startswith("http"):
         problems.append("元記事リンクがない")
 
-    for label, text in (("見出し", headline), ("要約", summary)):
+    for label, text in (("見出し", headline), ("fact", fact)):
         ratio = overlap_ratio(text, source_text, s["ngram_size"])
         run = longest_common_run(text, source_text)
         if ratio > s["ngram_overlap_max"]:
             problems.append(f"{label}が元文と似すぎている(一致率 {ratio:.0%})")
         if run > s["common_run_max"]:
             problems.append(f"{label}に元文と同じ文字列が {run} 字続いている")
+
+    for label, text in (("for_agency", for_agency), ("for_solo", for_solo)):
+        if not text:
+            continue
+        if any(w in text for w in s["absolute_words"]):
+            problems.append(f"{label}に断定的な言い切り表現が含まれている")
+        if not any(w in text for w in s["hedge_words"]):
+            problems.append(f"{label}に断定を避ける表現(可能性がある、など)が含まれていない")
+
     return problems

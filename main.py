@@ -30,15 +30,29 @@ def save_json(path: Path, obj) -> None:
     path.write_text(json.dumps(obj, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
+def _recent_headlines(source_id: str, n: int) -> list[str]:
+    """直近の公開済み見出しを、同じ発信元について新しい順にn件集める(予測の材料用)。"""
+    headlines = []
+    for f in sorted((DATA / "items").glob("*.json"), reverse=True):
+        for it in reversed(load_json(f, [])):
+            if it.get("source_id") == source_id and it.get("headline"):
+                headlines.append(it["headline"])
+                if len(headlines) >= n:
+                    return list(reversed(headlines))
+    return list(reversed(headlines))
+
+
 def run(cfg: dict) -> None:
     today = datetime.now(JST).strftime("%Y-%m-%d")
     state_path = DATA / "state.json"
     state = load_json(state_path, {})
+    lookback = cfg["ai"]["history_lookback"]
 
     items = fetch.collect(cfg, state)[: cfg["collect"]["max_items_per_run"]]
     published, logs = [], []
     for it in items:
-        result, log = summarize.process(it, cfg)
+        history = _recent_headlines(it["source_id"], lookback)
+        result, log = summarize.process(it, cfg, history)
         logs.append(log)
         if result:
             published.append(result)
@@ -60,12 +74,16 @@ def demo(cfg: dict) -> None:
     sample = [
         {"source_name": "OpenAI", "link": "https://example.com/1", "importance": 5,
          "headline": "(サンプル)新モデルを発表、API料金も改定",
-         "summary": "サンプルの要約文です。実際の運用では、元記事のタイトルと概要から事実だけを抜き出し、150字以内でまとめます。",
-         "impact": "API経由の自動化ツールを使っている人は、月々のコストを見直すタイミングです。"},
+         "fact": "サンプルのfactです。実際の運用では、元記事の要約ではなく「何が起きたか」をMiyaviの言葉でゼロから書きます。",
+         "why": "サンプルのwhyです。この動きがなぜ重要かを初心者にも分かるように書きます。",
+         "for_agency": "サンプルです。代理店であれば、複数クライアントへの提案コストが下がる可能性があります。",
+         "for_solo": "サンプルです。一人起業家であれば、外注していた作業を自分でまかなえる可能性があります。"},
         {"source_name": "NVIDIA", "link": "https://example.com/2", "importance": 4,
          "headline": "(サンプル)データセンター向け新チップの出荷開始",
-         "summary": "サンプルの要約文です。見出しも元記事のものは使わず、AIが事実ベースで新しく書き直します。",
-         "impact": "中長期ではAIサービスの利用料が下がる方向の材料です。"},
+         "fact": "サンプルのfactです。見出しも元記事のものは使わず、事実ベースで新しく書き直します。",
+         "why": "サンプルのwhyです。中長期的な業界への影響を短く説明します。",
+         "for_agency": "サンプルです。案件の見積もり単価が下がる材料になるかもしれません。",
+         "for_solo": "サンプルです。個人でも高性能な処理を使える環境が広がるかもしれません。"},
     ]
     save_json(demo_dir / f"{today}.json", sample)
     build.build(cfg, items_dir=demo_dir, out_dir=ROOT / "site_demo")

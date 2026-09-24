@@ -7,27 +7,32 @@
 # =========================================================
 
 site:
-  title: "夢叶のAIニュースピック"
-  description: "AIの主要プレイヤーの動きを、個人ビジネスの目線で毎朝まとめています。"
-  author: "夢叶"
+  title: "Miyavi AI News Pick"
+  description: "AIの主要プレイヤーの動きから、Miyaviが「代理店」「一人起業家」それぞれの視点でビジネスの使い方を毎朝考えます。"
+  author: "Miyavi"
   base_url: ""               # 例: https://yourname.github.io/ai-news-pick
   top_days: 3                # トップページに表示する日数
   cta:
-    text: "LINEで最新情報を受け取る"
-    url: "https://example.com"   # ← LINE登録URLなどに差し替え
-    note: "週末には、夢叶が選んだ今週のTOP3と見解をお届けしています。"
+    text: "Miyaviを5往復だけ試してみる"
+    url: "https://miyavi.tech"   # ← Miyaviのデモ申し込みページのURLに差し替え予定
+    note: "「自分の場合はどう使えるか」は、Miyaviとの会話で具体化できます。"
 
 ai:
   model: "claude-haiku-4-5-20251001"
   max_retries: 2             # 安全チェック不合格時の書き直し回数
+  history_lookback: 4        # 同じ発信元の直近何件の見出しを予測の材料として渡すか
 
 safety:
-  summary_max_chars: 150     # 要約の上限文字数
-  headline_max_chars: 40     # 見出しの上限文字数
-  ngram_size: 4              # 類似度判定に使う文字n-gram
-  ngram_overlap_max: 0.35    # 元文との n-gram 一致率の上限
-  common_run_max: 18         # 元文と連続一致してよい最大文字数
-  input_max_chars: 300       # AIに渡す概要の上限(全文は渡さない)
+  headline_max_chars: 40         # 見出しの上限文字数
+  fact_max_chars: 120            # 「何が起きたか」の上限文字数
+  why_max_chars: 100             # 「なぜ重要か」の上限文字数
+  impact_max_chars: 130          # 代理店/一人起業家むけコメントそれぞれの上限文字数
+  ngram_size: 4                   # 類似度判定に使う文字n-gram
+  ngram_overlap_max: 0.35         # 元文との n-gram 一致率の上限
+  common_run_max: 18              # 元文と連続一致してよい最大文字数
+  input_max_chars: 300            # AIに渡す概要の上限(全文は渡さない)
+  hedge_words: ["可能性", "かもしれ", "考えられ", "見込み", "そうだ"]   # 断定を避けるため、最低1つは含む必要がある語
+  absolute_words: ["確実に", "間違いなく", "絶対に", "必ず"]            # 言い切り表現、含まれていたら不合格
 
 collect:
   max_items_per_run: 40      # 1回の実行で要約する最大件数(コスト上限)
