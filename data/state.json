@@ -14,7 +14,8 @@
       "https://openai.com/index/better-prompt-caching-for-gpt-6",
       "https://openai.com/index/introducing-gpt-6-sol-and-luna",
       "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-      "https://openai.com/index/priorities-principles-third-party-assessments"
+      "https://openai.com/index/priorities-principles-third-party-assessments",
+      "https://openai.com/index/proaction"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -65,7 +66,9 @@
       "https://group.softbank/news/webcast/20260806_02",
       "https://group.softbank/news/webcast/20260806_01"
     ],
-    "microsoft": [],
+    "microsoft": [
+      "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/"
+    ],
     "meta": [
       "https://about.fb.com/news/2026/09/new-features-for-meta-ray-ban-display-navigation-hologram/",
       "https://about.fb.com/news/2026/09/introducing-meta-vr-glasses-3d-movies-immersive-live-sports-100-grams/",
