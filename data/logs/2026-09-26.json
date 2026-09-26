@@ -1,0 +1,48 @@
+[
+  {
+    "link": "https://openai.com/index/proaction",
+    "source": "openai",
+    "attempts": [
+      {
+        "result": {
+          "importance": 3,
+          "headline": "Codexで業務効率化、売上6割増の事例",
+          "fact": "Proactionという企業がOpenAIのCodexやGPT関連ツールを導入することで、フリート管理ソリューションの構築・運用・販売を加速し、売上60%増加と75時間以上の業務時間短縮を実現した。",
+          "why": "AIコード生成ツールが実際のビジネス成長に数字で貢献した事例は、AIツール導入による効率化がどれほどの価値をもたらすか検討する際の参考情報になり得るため。",
+          "for_agency": "クライアント企業へのOpenAI導入提案時に、具体的な売上向上と工数削減の実績を根拠として示せる可能性があります。同様の業界や規模のクライアントに対して、導入効果を見込みながら提案戦略を立てるうえで活用できそうです。",
+          "for_solo": "自社の製品開発やサービス提供にCodexなどのAIツールを組み込むことで、開発期間短縮と提供スピード向上が期待できる余地があります。限られたリソースの中で事業成長を目指す際の優先順位判断の材料になる可能性があります。",
+          "tags": [
+            "OpenAI",
+            "Proaction",
+            "Codex"
+          ]
+        },
+        "problems": []
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+    "source": "microsoft",
+    "attempts": [
+      {
+        "result": {
+          "importance": 4,
+          "headline": "Microsoftが統合型Copilotを発表、ホーム・コード・自動化に対応",
+          "fact": "Microsoftが新しいCopilotを発表。ホーム、コード、オートパイロット機能を備え、個人と組織が日常業務で活用できるように設計されている。複数のツールを接続する能力を持つ次世代機能が特徴",
+          "why": "AIアシスタントの活用シーンが広がることで、業務効率化の選択肢が増える。特に複数ツールの統合利用が進むと、自動化できる業務範囲が大きく拡大する可能性がある",
+          "for_agency": "クライアント企業向けの自動化提案時に、Microsoftのエコシステム活用を軸にしたソリューション設計ができるかもしれない。Copilotの新機能が代理店の業務効率化にも応用できるか、早期に検証する価値があると考えられる",
+          "for_solo": "個人事業主が使うツール群をCopilotで統合できれば、業務フローの自動化がより簡単になる見込み。ただし実装の詳細によっては、導入コストや学習コストがかかる可能性も想定しておくとよさそう",
+          "tags": [
+            "Microsoft",
+            "Copilot",
+            "自動化"
+          ]
+        },
+        "problems": []
+      }
+    ],
+    "status": "published"
+  }
+]
