@@ -27,11 +27,16 @@ body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);f
 a{color:var(--teal)}
 a:focus-visible{outline:3px solid var(--teal);outline-offset:3px;border-radius:2px}
 
-.layout{display:grid;grid-template-columns:1fr;gap:8px 40px}
+.layout{display:flex;flex-direction:column}
 .layout .main{min-width:0}
-@media (min-width:860px){.layout{grid-template-columns:1fr 260px}}
+.layout .glossary{order:-1}
+@media (min-width:860px){
+  .layout{flex-direction:row;gap:40px;align-items:flex-start}
+  .layout .main{flex:1}
+  .layout .glossary{order:1;flex:0 0 260px}
+}
 
-.glossary{margin:32px 0;padding:20px;background:var(--card);border:1px solid var(--line);border-radius:6px;align-self:start}
+.glossary{margin:8px 0 32px;padding:20px;background:var(--card);border:1px solid var(--line);border-radius:6px}
 @media (min-width:860px){.glossary{position:sticky;top:20px;margin:56px 0}}
 .glossary h2{font-family:var(--serif);font-size:16px;margin:0 0 4px}
 .glossary p.lead{font-size:13px;color:var(--muted);margin:0 0 14px}
@@ -80,13 +85,33 @@ footer{padding:32px 0 48px;font-size:13px;color:var(--muted)}
     <nav><a href="{{ root }}archive/index.html">過去のピック</a></nav>
   </header>
 
-  <div class="layout">
-  <div class="main">
   {% if mode == "archive_index" %}
   <section class="hero">
     <h1>過去のピック</h1>
     <p>日付を選ぶと、その日のピックが読めます。</p>
   </section>
+  {% else %}
+  <section class="hero">
+    <h1>{{ hero_title }}</h1>
+    <p>{{ hero_text }}</p>
+  </section>
+  {% endif %}
+
+  <div class="layout">
+  {% if glossary %}
+  <aside class="glossary">
+    <h2>AI用語集</h2>
+    <p class="lead">見慣れない言葉が出てきたら、ここで確認してください。</p>
+    <dl>
+      {% for g in glossary %}
+      <dt>{{ g.term }}</dt>
+      <dd>{{ g.definition }}</dd>
+      {% endfor %}
+    </dl>
+  </aside>
+  {% endif %}
+  <div class="main">
+  {% if mode == "archive_index" %}
   {% if dates %}
   <ul class="archive">
     {% for d in dates %}<li><a href="{{ d.file }}">{{ d.label }}</a>({{ d.count }}件)</li>{% endfor %}
@@ -96,11 +121,6 @@ footer{padding:32px 0 48px;font-size:13px;color:var(--muted)}
   {% endif %}
 
   {% else %}
-  <section class="hero">
-    <h1>{{ hero_title }}</h1>
-    <p>{{ hero_text }}</p>
-  </section>
-
   {% if not days %}
   <p class="empty">新しいピックはまだありません。毎朝6時ごろに更新されます。</p>
   {% endif %}
@@ -131,19 +151,6 @@ footer{padding:32px 0 48px;font-size:13px;color:var(--muted)}
   {% endfor %}
   {% endif %}
   </div>
-
-  {% if glossary %}
-  <aside class="glossary">
-    <h2>AI用語集</h2>
-    <p class="lead">見慣れない言葉が出てきたら、ここで確認してください。</p>
-    <dl>
-      {% for g in glossary %}
-      <dt>{{ g.term }}</dt>
-      <dd>{{ g.definition }}</dd>
-      {% endfor %}
-    </dl>
-  </aside>
-  {% endif %}
   </div>
 
   <footer>
