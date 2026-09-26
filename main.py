@@ -91,6 +91,7 @@ def demo(cfg: dict) -> None:
 
 if __name__ == "__main__":
     cfg = yaml.safe_load((ROOT / "config" / "sources.yaml").read_text(encoding="utf-8"))
+    cfg["glossary"] = yaml.safe_load((ROOT / "config" / "glossary.yaml").read_text(encoding="utf-8"))["terms"]
     if "--demo" in sys.argv:
         demo(cfg)
     elif "--build" in sys.argv:

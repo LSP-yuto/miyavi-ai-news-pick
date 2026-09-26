@@ -37,6 +37,7 @@ def build(cfg: dict, items_dir: Path | None = None, out_dir: Path | None = None)
     env = Environment(loader=FileSystemLoader(ROOT / "templates"), autoescape=select_autoescape(["html"]))
     tpl = env.get_template("page.html")
     site = cfg["site"]
+    glossary = cfg.get("glossary", [])
     days = _load_days(items_dir)
 
     top = days[: site["top_days"]]
@@ -46,12 +47,12 @@ def build(cfg: dict, items_dir: Path | None = None, out_dir: Path | None = None)
     else:
         hero_title, hero_text = site["title"], site["description"]
     (out / "index.html").write_text(tpl.render(
-        mode="top", site=site, root="", page_title=site["title"],
+        mode="top", site=site, root="", page_title=site["title"], glossary=glossary,
         hero_title=hero_title, hero_text=hero_text, days=top), encoding="utf-8")
 
     for d in days:
         (out / "archive" / f"{d['date']}.html").write_text(tpl.render(
-            mode="day", site=site, root="../", page_title=f"{d['label']}のピック | {site['title']}",
+            mode="day", site=site, root="../", page_title=f"{d['label']}のピック | {site['title']}", glossary=glossary,
             hero_title=d["label"], hero_text=f"この日のピックは{len(d['items'])}件です。", days=[d]),
             encoding="utf-8")
 
