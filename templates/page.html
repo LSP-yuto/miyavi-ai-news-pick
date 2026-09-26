@@ -44,7 +44,7 @@ a:focus-visible{outline:3px solid var(--teal);outline-offset:3px;border-radius:2
 /* PCでは右カラムに常時表示 */
 .glossary-desktop{display:none}
 @media (min-width:860px){
-  .glossary-desktop{display:block;order:1;flex:0 0 260px;position:sticky;top:20px;margin:56px 0;padding:20px;background:var(--card);border:1px solid var(--line);border-radius:6px}
+  .glossary-desktop{display:block;order:1;flex:0 0 260px;position:sticky;top:20px;margin:56px 0;padding:20px;background:var(--card);border:1px solid var(--line);border-radius:6px;max-height:calc(100vh - 40px);overflow-y:auto}
 }
 
 /* スマホでは右下固定のボタン。タップで開閉(JS不要、detailsの標準機能) */
