@@ -37,7 +37,7 @@ def build(cfg: dict, items_dir: Path | None = None, out_dir: Path | None = None)
     env = Environment(loader=FileSystemLoader(ROOT / "templates"), autoescape=select_autoescape(["html"]))
     tpl = env.get_template("page.html")
     site = cfg["site"]
-    glossary = cfg.get("glossary", [])
+    glossary = sorted(cfg.get("glossary", []), key=lambda g: g["term"])
     days = _load_days(items_dir)
 
     top = days[: site["top_days"]]
