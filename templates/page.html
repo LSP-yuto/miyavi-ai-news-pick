@@ -29,21 +29,33 @@ a:focus-visible{outline:3px solid var(--teal);outline-offset:3px;border-radius:2
 
 .layout{display:flex;flex-direction:column}
 .layout .main{min-width:0}
-.layout .glossary{order:-1}
 @media (min-width:860px){
   .layout{flex-direction:row;gap:40px;align-items:flex-start}
   .layout .main{flex:1}
-  .layout .glossary{order:1;flex:0 0 260px}
 }
 
-.glossary{margin:8px 0 32px;padding:20px;background:var(--card);border:1px solid var(--line);border-radius:6px}
-@media (min-width:860px){.glossary{position:sticky;top:20px;margin:56px 0}}
-.glossary h2{font-family:var(--serif);font-size:16px;margin:0 0 4px}
+.glossary h2,.glossary summary{font-family:var(--serif);font-size:16px;margin:0 0 4px}
 .glossary p.lead{font-size:13px;color:var(--muted);margin:0 0 14px}
 .glossary dl{margin:0}
 .glossary dt{font-weight:700;font-size:14px;margin-top:12px}
 .glossary dt:first-child{margin-top:0}
 .glossary dd{margin:2px 0 0;font-size:13px;color:var(--muted)}
+
+/* PCでは右カラムに常時表示 */
+.glossary-desktop{display:none}
+@media (min-width:860px){
+  .glossary-desktop{display:block;flex:0 0 260px;position:sticky;top:20px;margin:56px 0;padding:20px;background:var(--card);border:1px solid var(--line);border-radius:6px}
+}
+
+/* スマホでは右下固定のボタン。タップで開閉(JS不要、detailsの標準機能) */
+.glossary-mobile{position:fixed;right:14px;bottom:14px;z-index:50;max-width:min(320px,calc(100vw - 28px));max-height:70vh;overflow:auto;padding:12px 16px;background:var(--card);border:1px solid var(--line);border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.18)}
+.glossary-mobile summary{cursor:pointer;list-style:none;display:flex;align-items:center;gap:6px}
+.glossary-mobile summary::-webkit-details-marker{display:none}
+.glossary-mobile summary::after{content:"▲";font-size:10px;color:var(--muted)}
+.glossary-mobile:not([open]) summary::after{content:"▼"}
+.glossary-mobile:not([open]){padding:10px 16px}
+.glossary-mobile:not([open]) .lead,.glossary-mobile:not([open]) dl{display:none}
+@media (min-width:860px){.glossary-mobile{display:none}}
 
 header.site{padding:28px 0 0;display:flex;justify-content:space-between;align-items:baseline;gap:12px;flex-wrap:wrap}
 header.site .name{font-family:var(--serif);font-weight:900;font-size:18px;text-decoration:none;color:var(--ink)}
@@ -79,6 +91,15 @@ footer{padding:32px 0 48px;font-size:13px;color:var(--muted)}
 </style>
 </head>
 <body>
+{% macro glossary_body(glossary) %}
+    <p class="lead">見慣れない言葉が出てきたら、ここで確認してください。</p>
+    <dl>
+      {% for g in glossary %}
+      <dt>{{ g.term }}</dt>
+      <dd>{{ g.definition }}</dd>
+      {% endfor %}
+    </dl>
+{% endmacro %}
 <div class="wrap{% if glossary %} with-glossary{% endif %}">
   <header class="site">
     <a class="name" href="{{ root }}index.html">{{ site.title }}</a>
@@ -97,17 +118,17 @@ footer{padding:32px 0 48px;font-size:13px;color:var(--muted)}
   </section>
   {% endif %}
 
+  {% if glossary %}
+  <details class="glossary glossary-mobile">
+    <summary>AI用語集</summary>
+    {{ glossary_body(glossary) }}
+  </details>
+  {% endif %}
   <div class="layout">
   {% if glossary %}
-  <aside class="glossary">
+  <aside class="glossary glossary-desktop">
     <h2>AI用語集</h2>
-    <p class="lead">見慣れない言葉が出てきたら、ここで確認してください。</p>
-    <dl>
-      {% for g in glossary %}
-      <dt>{{ g.term }}</dt>
-      <dd>{{ g.definition }}</dd>
-      {% endfor %}
-    </dl>
+    {{ glossary_body(glossary) }}
   </aside>
   {% endif %}
   <div class="main">
