@@ -118,6 +118,13 @@ footer{padding:32px 0 48px;font-size:13px;color:var(--muted)}
   </section>
   {% endif %}
 
+  {% if mode == "top" and quiet_today %}
+  <aside class="cta">
+    <p>{{ site.quiet_day_message }}</p>
+    <a class="btn" href="{{ site.cta.url }}">{{ site.cta.text }}</a>
+  </aside>
+  {% endif %}
+
   {% if glossary %}
   <details class="glossary glossary-mobile">
     <summary>AI用語集</summary>

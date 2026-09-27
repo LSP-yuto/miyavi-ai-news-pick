@@ -3,13 +3,14 @@ from __future__ import annotations
 
 import json
 import shutil
-from datetime import date
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 ROOT = Path(__file__).resolve().parent.parent
 WEEK = "月火水木金土日"
+JST = timezone(timedelta(hours=9))
 
 
 def _label(d: str) -> str:
@@ -40,6 +41,9 @@ def build(cfg: dict, items_dir: Path | None = None, out_dir: Path | None = None)
     glossary = sorted(cfg.get("glossary", []), key=lambda g: g["term"])
     days = _load_days(items_dir)
 
+    today_str = datetime.now(JST).strftime("%Y-%m-%d")
+    quiet_today = not days or days[0]["date"] != today_str
+
     top = days[: site["top_days"]]
     if top:
         n = len(top[0]["items"])
@@ -48,7 +52,7 @@ def build(cfg: dict, items_dir: Path | None = None, out_dir: Path | None = None)
         hero_title, hero_text = site["title"], site["description"]
     (out / "index.html").write_text(tpl.render(
         mode="top", site=site, root="", page_title=site["title"], glossary=glossary,
-        hero_title=hero_title, hero_text=hero_text, days=top), encoding="utf-8")
+        hero_title=hero_title, hero_text=hero_text, days=top, quiet_today=quiet_today), encoding="utf-8")
 
     for d in days:
         (out / "archive" / f"{d['date']}.html").write_text(tpl.render(

@@ -16,6 +16,7 @@ site:
     text: "Miyaviを5往復だけ試してみる"
     url: "https://miyavi.tech"   # ← Miyaviのデモ申し込みページのURLに差し替え予定
     note: "「自分の場合はどう使えるか」は、Miyaviとの会話で具体化できます。"
+  quiet_day_message: "今日はAI業界のニュースがなかったので、少しMiyaviの話をさせてください。"
 
 ai:
   model: "claude-haiku-4-5-20251001"
