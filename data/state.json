@@ -15,7 +15,10 @@
       "https://openai.com/index/introducing-gpt-6-sol-and-luna",
       "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
       "https://openai.com/index/priorities-principles-third-party-assessments",
-      "https://openai.com/index/proaction"
+      "https://openai.com/index/proaction",
+      "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "https://openai.com/form/codex-originals",
+      "https://openai.com/index/basis-tax-workbook-with-astra"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -36,7 +39,8 @@
       "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/"
     ],
     "google-ai": [
-      "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/"
+      "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/"
     ],
     "nvidia": [
       "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
@@ -74,7 +78,8 @@
       "https://about.fb.com/news/2026/09/introducing-meta-vr-glasses-3d-movies-immersive-live-sports-100-grams/",
       "https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio-glasses-new-styles-plus-muse/",
       "https://about.fb.com/news/2026/09/meta-spf-scam-efforts/",
-      "https://about.fb.com/news/2026/09/the-biggest-news-from-connect-2026/"
+      "https://about.fb.com/news/2026/09/the-biggest-news-from-connect-2026/",
+      "https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/"
     ],
     "sakana": [
       "https://sakana.ai/frontier-intelligence-group/",
@@ -200,7 +205,10 @@
       "https://sakana.ai/company-info-old/",
       "https://sakana.ai/",
       "https://sakana.ai/schmidhuber/",
-      "https://sakana.ai/japan-startup-award-2026/"
+      "https://sakana.ai/japan-startup-award-2026/",
+      "https://sakana.ai/sail/",
+      "https://sakana.ai/pc-alm/",
+      "https://sakana.ai/percept-lens/"
     ]
   }
 }
