@@ -23,7 +23,9 @@
       "https://openai.com/index/devday-2026-recap",
       "https://openai.com/index/introducing-dots",
       "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "https://openai.com/index/how-we-will-do-better-for-australia"
+      "https://openai.com/index/how-we-will-do-better-for-australia",
+      "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "https://openai.com/index/helping-small-businesses-put-ai-to-work"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -41,7 +43,9 @@
     "deepmind": [
       "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
       "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-      "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/"
+      "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "https://deepmind.google/blog/introducing-synthid-bio/"
     ],
     "google-ai": [
       "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
@@ -56,7 +60,9 @@
       "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
       "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
       "https://blogs.nvidia.com/blog/open-protein-dataset/",
-      "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/"
+      "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/",
+      "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
+      "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/"
     ],
     "softbank": [
       "https://group.softbank/news/press/20260924",
@@ -73,7 +79,8 @@
       "https://group.softbank/news/webcast/20260901",
       "https://group.softbank/news/webcast/20260806_03",
       "https://group.softbank/news/webcast/20260806_02",
-      "https://group.softbank/news/webcast/20260806_01"
+      "https://group.softbank/news/webcast/20260806_01",
+      "https://group.softbank/news/press/20260930"
     ],
     "microsoft": [
       "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
@@ -89,7 +96,8 @@
       "https://about.fb.com/news/2026/09/find-community-forum-dedicated-app-facebook-groups/",
       "https://about.fb.com/news/2026/09/expanding-instagram-school-partnership-program-help-teens-stay-informed/",
       "https://about.fb.com/news/2026/09/introducing-muse-small-business/",
-      "https://about.fb.com/news/2026/09/meta-one-step-ahead-campaign/"
+      "https://about.fb.com/news/2026/09/meta-one-step-ahead-campaign/",
+      "https://about.fb.com/news/2026/09/meta-names-dhruv-vohra-to-lead-southeast-asia-business/"
     ],
     "sakana": [
       "https://sakana.ai/frontier-intelligence-group/",
