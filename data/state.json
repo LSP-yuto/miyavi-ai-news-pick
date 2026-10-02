@@ -25,7 +25,10 @@
       "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
       "https://openai.com/index/how-we-will-do-better-for-australia",
       "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "https://openai.com/index/helping-small-businesses-put-ai-to-work"
+      "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "https://openai.com/index/the-eternal-complement",
+      "https://openai.com/index/albertsons-reimagining-retail",
+      "https://openai.com/index/the-den-family-social"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -38,7 +41,8 @@
       "https://www.anthropic.com/news/wellbeing-research-grants",
       "https://www.anthropic.com/news/claude-text-watermark",
       "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-      "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
+      "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+      "https://www.anthropic.com/news/barclays-scales-claude"
     ],
     "deepmind": [
       "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
@@ -62,7 +66,10 @@
       "https://blogs.nvidia.com/blog/open-protein-dataset/",
       "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/",
       "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
-      "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/"
+      "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
+      "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
+      "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/",
+      "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/"
     ],
     "softbank": [
       "https://group.softbank/news/press/20260924",
@@ -80,11 +87,13 @@
       "https://group.softbank/news/webcast/20260806_03",
       "https://group.softbank/news/webcast/20260806_02",
       "https://group.softbank/news/webcast/20260806_01",
-      "https://group.softbank/news/press/20260930"
+      "https://group.softbank/news/press/20260930",
+      "https://group.softbank/news/press/20261001"
     ],
     "microsoft": [
       "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
-      "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/"
+      "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/",
+      "https://blogs.microsoft.com/blog/2026/10/01/microsoft-365-and-linkedin-leadership-update/"
     ],
     "meta": [
       "https://about.fb.com/news/2026/09/new-features-for-meta-ray-ban-display-navigation-hologram/",
@@ -97,7 +106,8 @@
       "https://about.fb.com/news/2026/09/expanding-instagram-school-partnership-program-help-teens-stay-informed/",
       "https://about.fb.com/news/2026/09/introducing-muse-small-business/",
       "https://about.fb.com/news/2026/09/meta-one-step-ahead-campaign/",
-      "https://about.fb.com/news/2026/09/meta-names-dhruv-vohra-to-lead-southeast-asia-business/"
+      "https://about.fb.com/news/2026/09/meta-names-dhruv-vohra-to-lead-southeast-asia-business/",
+      "https://about.fb.com/news/2026/10/announcing-ranveer-singh-as-brand-ambassador-for-ray-ban-and-ray-ban-meta-in-india-along-with-exciting-new-updates-to-our-ai-glasses/"
     ],
     "sakana": [
       "https://sakana.ai/frontier-intelligence-group/",
