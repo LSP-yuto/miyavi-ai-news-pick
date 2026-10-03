@@ -28,7 +28,9 @@
       "https://openai.com/index/helping-small-businesses-put-ai-to-work",
       "https://openai.com/index/the-eternal-complement",
       "https://openai.com/index/albertsons-reimagining-retail",
-      "https://openai.com/index/the-den-family-social"
+      "https://openai.com/index/the-den-family-social",
+      "https://openai.com/index/practical-guide-building-gpt-6",
+      "https://openai.com/index/chatham-financial"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -42,7 +44,8 @@
       "https://www.anthropic.com/news/claude-text-watermark",
       "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
       "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
-      "https://www.anthropic.com/news/barclays-scales-claude"
+      "https://www.anthropic.com/news/barclays-scales-claude",
+      "https://www.anthropic.com/news/claude-frontier-academy"
     ],
     "deepmind": [
       "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
@@ -53,7 +56,8 @@
     ],
     "google-ai": [
       "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/"
+      "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/"
     ],
     "nvidia": [
       "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
@@ -69,7 +73,8 @@
       "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
       "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
       "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/",
-      "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/"
+      "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
+      "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/"
     ],
     "softbank": [
       "https://group.softbank/news/press/20260924",
@@ -88,7 +93,8 @@
       "https://group.softbank/news/webcast/20260806_02",
       "https://group.softbank/news/webcast/20260806_01",
       "https://group.softbank/news/press/20260930",
-      "https://group.softbank/news/press/20261001"
+      "https://group.softbank/news/press/20261001",
+      "https://group.softbank/news/info/20261002"
     ],
     "microsoft": [
       "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
