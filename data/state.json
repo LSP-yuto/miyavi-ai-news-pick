@@ -32,7 +32,11 @@
       "https://openai.com/index/practical-guide-building-gpt-6",
       "https://openai.com/index/chatham-financial",
       "https://openai.com/index/eu-text-provenance",
-      "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
+      "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "https://openai.com/index/jump-trading",
+      "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "https://openai.com/index/atlassian-partnership"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -47,14 +51,16 @@
       "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
       "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
       "https://www.anthropic.com/news/barclays-scales-claude",
-      "https://www.anthropic.com/news/claude-frontier-academy"
+      "https://www.anthropic.com/news/claude-frontier-academy",
+      "https://www.anthropic.com/news/cyber-verification-program"
     ],
     "deepmind": [
       "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
       "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
       "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
       "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "https://deepmind.google/blog/introducing-synthid-bio/"
+      "https://deepmind.google/blog/introducing-synthid-bio/",
+      "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
     ],
     "google-ai": [
       "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
@@ -77,7 +83,8 @@
       "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/",
       "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
       "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
-      "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/"
+      "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
+      "https://blogs.nvidia.com/blog/telecom-operators-open-models/"
     ],
     "softbank": [
       "https://group.softbank/news/press/20260924",
