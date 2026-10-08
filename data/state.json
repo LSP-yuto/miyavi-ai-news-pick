@@ -36,7 +36,10 @@
       "https://openai.com/index/jump-trading",
       "https://openai.com/index/sharing-ai-progress-in-mathematics",
       "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "https://openai.com/index/atlassian-partnership"
+      "https://openai.com/index/atlassian-partnership",
+      "https://openai.com/index/teens-learn-and-plan",
+      "https://openai.com/index/radisson",
+      "https://openai.com/index/gpt-6-for-everyone"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -65,7 +68,8 @@
     "google-ai": [
       "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
       "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/"
+      "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"
     ],
     "nvidia": [
       "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
@@ -84,7 +88,8 @@
       "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
       "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
       "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
-      "https://blogs.nvidia.com/blog/telecom-operators-open-models/"
+      "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
+      "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/"
     ],
     "softbank": [
       "https://group.softbank/news/press/20260924",
@@ -123,7 +128,9 @@
       "https://about.fb.com/news/2026/09/introducing-muse-small-business/",
       "https://about.fb.com/news/2026/09/meta-one-step-ahead-campaign/",
       "https://about.fb.com/news/2026/09/meta-names-dhruv-vohra-to-lead-southeast-asia-business/",
-      "https://about.fb.com/news/2026/10/announcing-ranveer-singh-as-brand-ambassador-for-ray-ban-and-ray-ban-meta-in-india-along-with-exciting-new-updates-to-our-ai-glasses/"
+      "https://about.fb.com/news/2026/10/announcing-ranveer-singh-as-brand-ambassador-for-ray-ban-and-ray-ban-meta-in-india-along-with-exciting-new-updates-to-our-ai-glasses/",
+      "https://about.fb.com/news/2026/10/meta-data-centers-ai-approach/",
+      "https://about.fb.com/news/2026/10/measures-weve-put-in-place-to-fight-child-exploitation/"
     ],
     "sakana": [
       "https://sakana.ai/frontier-intelligence-group/",
