@@ -43,7 +43,9 @@
       "https://openai.com/index/oracle",
       "https://openai.com/index/pollo-ai",
       "https://openai.com/index/legalon-halves-codex-costs",
-      "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
+      "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "https://openai.com/index/sophos",
+      "https://openai.com/index/asana-browser-agent"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -119,7 +121,8 @@
       "https://group.softbank/news/press/20260930",
       "https://group.softbank/news/press/20261001",
       "https://group.softbank/news/info/20261002",
-      "https://group.softbank/news/press/20261008"
+      "https://group.softbank/news/press/20261008",
+      "https://group.softbank/news/press/20261009"
     ],
     "microsoft": [
       "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
@@ -272,7 +275,8 @@
       "https://sakana.ai/sail/",
       "https://sakana.ai/pc-alm/",
       "https://sakana.ai/percept-lens/",
-      "https://sakana.ai/sakana-ai-insider/"
+      "https://sakana.ai/sakana-ai-insider/",
+      "https://sakana.ai/namazu-aillis/"
     ]
   }
 }
