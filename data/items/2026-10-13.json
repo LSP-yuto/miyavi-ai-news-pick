@@ -1,0 +1,36 @@
+[
+  {
+    "source_id": "microsoft",
+    "source_name": "Microsoft",
+    "link": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
+    "published": "2026-10-12T13:01:29+00:00",
+    "importance": 4,
+    "headline": "Microsoftが推論システムをマルチギガワット規模に拡張へ",
+    "fact": "MicrosoftはAzure Maia 200を本番稼働させ、2027年にAzure Maia 300を投入予定。推論処理向けの大規模インフラへ移行し、Maiaを主要な推論システムとして位置付ける。",
+    "why": "生成AI活用の拡大で推論処理のコンピュート需要が急増する中、Microsoftが独自チップによる大規模投資を明言することは、AI競争における長期戦略の具体化を意味する可能性がある。",
+    "for_agency": "クライアントのAI導入提案時に、大手プロバイダーの推論能力強化トレンドを参考にできるかもしれない。インフラ投資規模の拡大は、Azure上でのAI活用コストやパフォーマンス変化につながる可能性があり、提案の時間軸検討が必要そう。",
+    "for_solo": "個人で自動化ツール開発やAI活用ビジネスを進める場合、クラウドプロバイダーの推論インフラ成熟度は重要な要素になるかもしれない。Microsoftの独自チップ戦略が進むことで、今後のAPI利用単価やレスポンス速度改善が見込める可能性がある。",
+    "tags": [
+      "Microsoft",
+      "Azure Maia",
+      "AI推論"
+    ]
+  },
+  {
+    "source_id": "meta",
+    "source_name": "Meta",
+    "link": "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/",
+    "published": "2026-10-12T17:08:05+00:00",
+    "importance": 4,
+    "headline": "Metaが個人・業務向けAIエージェント最新モデルを発表",
+    "fact": "MetaがMuse WonderとMuse Wonder Fullという新型モデルを公開。個人や業務で使うAIエージェントタスクにおいて、高い性能を狙った設計となっている。",
+    "why": "エージェント型AIは自動化の次の段階。個人や企業の日常業務を代行できるようになれば、単なるツールから実行力を持つパートナーへと進化する可能性がある。",
+    "for_agency": "顧客への提案形が変わる見込み。従来の単機能自動化から、複数タスクを並行実行するAIエージェントへのアップセルが考えられる。自社でこのモデルを検証し、客層別の活用シナリオを早期に構築する動きが差別化につながるかもしれない。",
+    "for_solo": "個人起業家にとって、業務拡大時の自動化選択肢が増える可能性がある。プロトタイプで試してみることで、スケーリング段階での工数削減機会を見つけやすくなるかもしれない。",
+    "tags": [
+      "Meta",
+      "Muse Wonder",
+      "AIエージェント"
+    ]
+  }
+]
