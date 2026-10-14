@@ -45,7 +45,8 @@
       "https://openai.com/index/legalon-halves-codex-costs",
       "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
       "https://openai.com/index/sophos",
-      "https://openai.com/index/asana-browser-agent"
+      "https://openai.com/index/asana-browser-agent",
+      "https://openai.com/index/higgsfield-longer-videos-voice"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -72,13 +73,17 @@
       "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
       "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
       "https://deepmind.google/blog/introducing-synthid-bio/",
-      "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
+      "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "https://deepmind.google/blog/introducing-gemini-4-argon/"
     ],
     "google-ai": [
       "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
       "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
       "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"
+      "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
     ],
     "nvidia": [
       "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
@@ -101,7 +106,9 @@
       "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
       "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
       "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/",
-      "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/"
+      "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+      "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+      "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/"
     ],
     "softbank": [
       "https://group.softbank/news/press/20260924",
@@ -148,7 +155,10 @@
       "https://about.fb.com/news/2026/10/measures-weve-put-in-place-to-fight-child-exploitation/",
       "https://about.fb.com/news/2026/10/debunking-the-biggest-data-center-myths/",
       "https://about.fb.com/news/2026/10/meta-donates-1000-ai-glasses-to-singapores-disability-community/",
-      "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/"
+      "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/",
+      "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/",
+      "https://about.fb.com/news/2026/10/announcing-the-official-selection-for-the-edits-film-festival/",
+      "https://about.fb.com/news/2026/10/meta-tech-companies-law-enforcement-crackdown-global-scam-networks/"
     ],
     "sakana": [
       "https://sakana.ai/frontier-intelligence-group/",
