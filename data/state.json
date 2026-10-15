@@ -51,7 +51,9 @@
       "https://openai.com/index/sentinelone",
       "https://openai.com/index/third-moment-research",
       "https://openai.com/index/block-ai-powered-security",
-      "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
+      "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -72,7 +74,8 @@
       "https://www.anthropic.com/news/genesis-mission-commitment",
       "https://www.anthropic.com/news/anthropic-cyber-mission",
       "https://www.anthropic.com/news/2026-us-midterms",
-      "https://www.anthropic.com/news/singapore-office-opening"
+      "https://www.anthropic.com/news/singapore-office-opening",
+      "https://www.anthropic.com/news/an-update-on-independent-evaluators"
     ],
     "deepmind": [
       "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
@@ -84,7 +87,8 @@
       "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
       "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
       "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+      "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
     ],
     "google-ai": [
       "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
@@ -118,7 +122,12 @@
       "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
       "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
       "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
-      "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/"
+      "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
+      "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
+      "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+      "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
+      "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/",
+      "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/"
     ],
     "softbank": [
       "https://group.softbank/news/press/20260924",
@@ -170,7 +179,9 @@
       "https://about.fb.com/news/2026/10/announcing-the-official-selection-for-the-edits-film-festival/",
       "https://about.fb.com/news/2026/10/meta-tech-companies-law-enforcement-crackdown-global-scam-networks/",
       "https://about.fb.com/news/2026/10/introducing-whatsapp-guest-calling/",
-      "https://about.fb.com/news/2026/10/farah-khan-at-edits-film-festival-content-breakthroughs-come-from-spontaneity-relatability-and-realness/"
+      "https://about.fb.com/news/2026/10/farah-khan-at-edits-film-festival-content-breakthroughs-come-from-spontaneity-relatability-and-realness/",
+      "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/",
+      "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/"
     ],
     "sakana": [
       "https://sakana.ai/frontier-intelligence-group/",
