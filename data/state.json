@@ -58,7 +58,9 @@
       "https://openai.com/index/sullivan-cromwell",
       "https://openai.com/index/itau-generative-ai",
       "https://openai.com/index/benefit-street-partners",
-      "https://openai.com/index/low-resource-programming-languages"
+      "https://openai.com/index/low-resource-programming-languages",
+      "https://openai.com/index/ted-taylor-restaurant",
+      "https://openai.com/index/openai-to-acquire-orchestra-bio"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -81,7 +83,12 @@
       "https://www.anthropic.com/news/2026-us-midterms",
       "https://www.anthropic.com/news/singapore-office-opening",
       "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-      "https://www.anthropic.com/news/public-benefit-fund"
+      "https://www.anthropic.com/news/public-benefit-fund",
+      "https://www.anthropic.com/news/announcements",
+      "https://www.anthropic.com/news/partnerships",
+      "https://www.anthropic.com/news/safeguards",
+      "https://www.anthropic.com/news/distillation-defenses",
+      "https://www.anthropic.com/news/security"
     ],
     "deepmind": [
       "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
@@ -136,7 +143,8 @@
       "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
       "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
       "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
-      "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/"
+      "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+      "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/"
     ],
     "softbank": [
       "https://group.softbank/news/press/20260924",
@@ -165,7 +173,8 @@
       "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/",
       "https://blogs.microsoft.com/blog/2026/10/01/microsoft-365-and-linkedin-leadership-update/",
       "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
-      "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider/"
+      "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider/",
+      "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/"
     ],
     "meta": [
       "https://about.fb.com/news/2026/09/new-features-for-meta-ray-ban-display-navigation-hologram/",
@@ -324,7 +333,9 @@
       "https://sakana.ai/sakana-ai-insider/",
       "https://sakana.ai/namazu-aillis/",
       "https://sakana.ai/mass/",
-      "https://sakana.ai/my-fish/"
+      "https://sakana.ai/my-fish/",
+      "https://sakana.ai/open-house-2026/",
+      "https://sakana.ai/qd-rec/"
     ]
   }
 }
