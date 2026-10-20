@@ -57,7 +57,8 @@
       "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "https://openai.com/index/sullivan-cromwell",
       "https://openai.com/index/itau-generative-ai",
-      "https://openai.com/index/benefit-street-partners"
+      "https://openai.com/index/benefit-street-partners",
+      "https://openai.com/index/low-resource-programming-languages"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -133,7 +134,9 @@
       "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
       "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/",
       "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
-      "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/"
+      "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+      "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+      "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/"
     ],
     "softbank": [
       "https://group.softbank/news/press/20260924",
@@ -161,7 +164,8 @@
       "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
       "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/",
       "https://blogs.microsoft.com/blog/2026/10/01/microsoft-365-and-linkedin-leadership-update/",
-      "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/"
+      "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
+      "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider/"
     ],
     "meta": [
       "https://about.fb.com/news/2026/09/new-features-for-meta-ray-ban-display-navigation-hologram/",
