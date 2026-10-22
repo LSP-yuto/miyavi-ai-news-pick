@@ -69,7 +69,10 @@
       "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
       "https://openai.com/index/building-chatgpt-ad-stack",
       "https://openai.com/index/empowering-cyber-defenders",
-      "https://openai.com/index/terminal-x"
+      "https://openai.com/index/terminal-x",
+      "https://openai.com/index/decisions-api",
+      "https://openai.com/index/uber-chatgpt-work-rollout",
+      "https://openai.com/index/cloudflare-cyber"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -99,7 +102,9 @@
       "https://www.anthropic.com/news/distillation-defenses",
       "https://www.anthropic.com/news/security",
       "https://www.anthropic.com/news/features",
-      "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust"
+      "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+      "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences"
     ],
     "deepmind": [
       "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
@@ -112,7 +117,8 @@
       "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
       "https://deepmind.google/blog/introducing-gemini-4-argon/",
       "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
+      "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
     ],
     "google-ai": [
       "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
@@ -166,7 +172,15 @@
       "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/",
       "https://blogs.nvidia.com/blog/open-models-europe-industry/",
       "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
-      "https://blogs.nvidia.com/blog/european-leaders-vera-cpu-infrastructure/"
+      "https://blogs.nvidia.com/blog/european-leaders-vera-cpu-infrastructure/",
+      "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+      "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
+      "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
+      "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+      "https://blogs.nvidia.com/blog/dsx-power/",
+      "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+      "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/",
+      "https://blogs.nvidia.com/blog/european-public-sector-open-models/"
     ],
     "softbank": [
       "https://group.softbank/news/press/20260924",
@@ -357,7 +371,8 @@
       "https://sakana.ai/mass/",
       "https://sakana.ai/my-fish/",
       "https://sakana.ai/open-house-2026/",
-      "https://sakana.ai/qd-rec/"
+      "https://sakana.ai/qd-rec/",
+      "https://sakana.ai/aquarium-release/"
     ]
   }
 }
