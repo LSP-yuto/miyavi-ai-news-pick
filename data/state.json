@@ -72,7 +72,11 @@
       "https://openai.com/index/terminal-x",
       "https://openai.com/index/decisions-api",
       "https://openai.com/index/uber-chatgpt-work-rollout",
-      "https://openai.com/index/cloudflare-cyber"
+      "https://openai.com/index/cloudflare-cyber",
+      "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "https://openai.com/index/forward-deployed-engineering-means"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -180,7 +184,8 @@
       "https://blogs.nvidia.com/blog/dsx-power/",
       "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
       "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/",
-      "https://blogs.nvidia.com/blog/european-public-sector-open-models/"
+      "https://blogs.nvidia.com/blog/european-public-sector-open-models/",
+      "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/"
     ],
     "softbank": [
       "https://group.softbank/news/press/20260924",
@@ -202,7 +207,9 @@
       "https://group.softbank/news/press/20261001",
       "https://group.softbank/news/info/20261002",
       "https://group.softbank/news/press/20261008",
-      "https://group.softbank/news/press/20261009"
+      "https://group.softbank/news/press/20261009",
+      "https://group.softbank/news/press/20261023_0",
+      "https://group.softbank/news/press/20261023"
     ],
     "microsoft": [
       "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
@@ -236,7 +243,8 @@
       "https://about.fb.com/news/2026/10/introducing-whatsapp-guest-calling/",
       "https://about.fb.com/news/2026/10/farah-khan-at-edits-film-festival-content-breakthroughs-come-from-spontaneity-relatability-and-realness/",
       "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/",
-      "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/"
+      "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/",
+      "https://about.fb.com/news/2026/10/new-tools-for-the-admins-who-build-communities-on-forum/"
     ],
     "sakana": [
       "https://sakana.ai/frontier-intelligence-group/",
