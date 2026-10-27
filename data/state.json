@@ -76,7 +76,14 @@
       "https://openai.com/index/scaling-storage-one-billion-users-part-two",
       "https://openai.com/index/securing-our-frontier-model-training-environment",
       "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "https://openai.com/index/forward-deployed-engineering-means"
+      "https://openai.com/index/forward-deployed-engineering-means",
+      "https://openai.com/index/greptile-code-review-codex-astra",
+      "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "https://openai.com/index/fanatics-streamline-fan-experience",
+      "https://openai.com/index/openai-cut-incident-investigation",
+      "https://openai.com/index/introducing-gpt-6-1-terra"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -108,7 +115,8 @@
       "https://www.anthropic.com/news/features",
       "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
       "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-      "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences"
+      "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+      "https://www.anthropic.com/news/s1-sec"
     ],
     "deepmind": [
       "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
@@ -130,7 +138,8 @@
       "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
       "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
       "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/"
+      "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"
     ],
     "nvidia": [
       "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
@@ -217,7 +226,8 @@
       "https://blogs.microsoft.com/blog/2026/10/01/microsoft-365-and-linkedin-leadership-update/",
       "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
       "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider/",
-      "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/"
+      "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
+      "https://blogs.microsoft.com/blog/2026/10/26/introducing-a-voluntary-exit-offer/"
     ],
     "meta": [
       "https://about.fb.com/news/2026/09/new-features-for-meta-ray-ban-display-navigation-hologram/",
