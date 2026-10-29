@@ -86,7 +86,10 @@
       "https://openai.com/index/introducing-gpt-6-1-terra",
       "https://openai.com/index/retell-ai",
       "https://openai.com/index/oracle-apps-in-chatgpt",
-      "https://openai.com/index/check-point-daybreak"
+      "https://openai.com/index/check-point-daybreak",
+      "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "https://openai.com/index/the-future-of-the-firm",
+      "https://openai.com/index/legora"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -120,7 +123,8 @@
       "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
       "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
       "https://www.anthropic.com/news/s1-sec",
-      "https://www.anthropic.com/news/expanding-partnership-gsa"
+      "https://www.anthropic.com/news/expanding-partnership-gsa",
+      "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions"
     ],
     "deepmind": [
       "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
@@ -135,7 +139,8 @@
       "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
       "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
       "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-      "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+      "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
     ],
     "google-ai": [
       "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
@@ -200,7 +205,8 @@
       "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/",
       "https://blogs.nvidia.com/blog/european-public-sector-open-models/",
       "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
-      "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/"
+      "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
+      "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/"
     ],
     "softbank": [
       "https://group.softbank/news/press/20260924",
@@ -234,7 +240,8 @@
       "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider/",
       "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
       "https://blogs.microsoft.com/blog/2026/10/26/introducing-a-voluntary-exit-offer/",
-      "https://blogs.microsoft.com/blog/2026/10/27/the-platform-approach-to-becoming-frontier/"
+      "https://blogs.microsoft.com/blog/2026/10/27/the-platform-approach-to-becoming-frontier/",
+      "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/"
     ],
     "meta": [
       "https://about.fb.com/news/2026/09/new-features-for-meta-ray-ban-display-navigation-hologram/",
@@ -261,7 +268,9 @@
       "https://about.fb.com/news/2026/10/farah-khan-at-edits-film-festival-content-breakthroughs-come-from-spontaneity-relatability-and-realness/",
       "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/",
       "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/",
-      "https://about.fb.com/news/2026/10/new-tools-for-the-admins-who-build-communities-on-forum/"
+      "https://about.fb.com/news/2026/10/new-tools-for-the-admins-who-build-communities-on-forum/",
+      "https://about.fb.com/news/2026/10/meta-partners-with-five-us-universities-to-accelerate-medical-and-scientific-breakthroughs/",
+      "https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone/"
     ],
     "sakana": [
       "https://sakana.ai/frontier-intelligence-group/",

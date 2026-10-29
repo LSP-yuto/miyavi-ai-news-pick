@@ -1,0 +1,146 @@
+[
+  {
+    "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "source": "openai",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  },
+  {
+    "link": "https://openai.com/index/the-future-of-the-firm",
+    "source": "openai",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  },
+  {
+    "link": "https://openai.com/index/legora",
+    "source": "openai",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  },
+  {
+    "link": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+    "source": "anthropic",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  },
+  {
+    "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "source": "deepmind",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  },
+  {
+    "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+    "source": "nvidia",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  },
+  {
+    "link": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/",
+    "source": "microsoft",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  },
+  {
+    "link": "https://about.fb.com/news/2026/10/meta-partners-with-five-us-universities-to-accelerate-medical-and-scientific-breakthroughs/",
+    "source": "meta",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  },
+  {
+    "link": "https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone/",
+    "source": "meta",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  }
+]
