@@ -89,7 +89,10 @@
       "https://openai.com/index/check-point-daybreak",
       "https://openai.com/index/openai-servicenow-partnership-expansion",
       "https://openai.com/index/the-future-of-the-firm",
-      "https://openai.com/index/legora"
+      "https://openai.com/index/legora",
+      "https://openai.com/index/updated-model-spec",
+      "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "https://openai.com/index/ropes-gray-ai-diligence"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -206,7 +209,8 @@
       "https://blogs.nvidia.com/blog/european-public-sector-open-models/",
       "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
       "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
-      "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/"
+      "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+      "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/"
     ],
     "softbank": [
       "https://group.softbank/news/press/20260924",
@@ -270,7 +274,9 @@
       "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/",
       "https://about.fb.com/news/2026/10/new-tools-for-the-admins-who-build-communities-on-forum/",
       "https://about.fb.com/news/2026/10/meta-partners-with-five-us-universities-to-accelerate-medical-and-scientific-breakthroughs/",
-      "https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone/"
+      "https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone/",
+      "https://about.fb.com/news/2026/10/lavenir-appartient-a-tous-meta-et-inca-sassocient-pour-soutenir-les-personnes-aveugles-sourdes-et-aveugles-ou-ayant-une-basse-vision-au-canada/",
+      "https://about.fb.com/news/2026/10/the-future-is-for-everyone-meta-and-cnib-partner-to-support-canadians-who-are-blind-deafblind-or-have-low-vision/"
     ],
     "sakana": [
       "https://sakana.ai/frontier-intelligence-group/",
@@ -407,7 +413,9 @@
       "https://sakana.ai/open-house-2026/",
       "https://sakana.ai/qd-rec/",
       "https://sakana.ai/aquarium-release/",
-      "https://sakana.ai/vp-of-gtm-interview/"
+      "https://sakana.ai/vp-of-gtm-interview/",
+      "https://sakana.ai/us-midterms-analysis/",
+      "https://sakana.ai/api-platform-earlyaccess/"
     ]
   }
 }
