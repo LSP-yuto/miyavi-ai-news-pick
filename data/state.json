@@ -92,7 +92,11 @@
       "https://openai.com/index/legora",
       "https://openai.com/index/updated-model-spec",
       "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "https://openai.com/index/ropes-gray-ai-diligence"
+      "https://openai.com/index/ropes-gray-ai-diligence",
+      "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "https://openai.com/index/fair-use-benefits-everyone",
+      "https://openai.com/index/credit-saison"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -210,7 +214,8 @@
       "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
       "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
       "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
-      "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/"
+      "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
+      "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/"
     ],
     "softbank": [
       "https://group.softbank/news/press/20260924",
@@ -234,7 +239,8 @@
       "https://group.softbank/news/press/20261008",
       "https://group.softbank/news/press/20261009",
       "https://group.softbank/news/press/20261023_0",
-      "https://group.softbank/news/press/20261023"
+      "https://group.softbank/news/press/20261023",
+      "https://group.softbank/news/press/20261030"
     ],
     "microsoft": [
       "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
