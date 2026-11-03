@@ -96,7 +96,12 @@
       "https://openai.com/index/helping-websites-express-ai-training-preferences",
       "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
       "https://openai.com/index/fair-use-benefits-everyone",
-      "https://openai.com/index/credit-saison"
+      "https://openai.com/index/credit-saison",
+      "https://openai.com/index/scaling-git-at-openai",
+      "https://openai.com/index/grid-protectors-program",
+      "https://openai.com/index/lifeval",
+      "https://openai.com/index/qodo-codex-plugin",
+      "https://openai.com/index/dan-driscoll-joins-openai"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -156,7 +161,8 @@
       "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
       "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
       "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"
+      "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/"
     ],
     "nvidia": [
       "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
@@ -421,7 +427,8 @@
       "https://sakana.ai/aquarium-release/",
       "https://sakana.ai/vp-of-gtm-interview/",
       "https://sakana.ai/us-midterms-analysis/",
-      "https://sakana.ai/api-platform-earlyaccess/"
+      "https://sakana.ai/api-platform-earlyaccess/",
+      "https://sakana.ai/symposium-2026/"
     ]
   }
 }
