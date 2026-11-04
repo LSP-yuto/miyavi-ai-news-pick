@@ -101,7 +101,13 @@
       "https://openai.com/index/grid-protectors-program",
       "https://openai.com/index/lifeval",
       "https://openai.com/index/qodo-codex-plugin",
-      "https://openai.com/index/dan-driscoll-joins-openai"
+      "https://openai.com/index/dan-driscoll-joins-openai",
+      "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "https://openai.com/index/cisco-cyber",
+      "https://openai.com/index/heimstaden",
+      "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -152,7 +158,8 @@
       "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
       "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
       "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
+      "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/"
     ],
     "google-ai": [
       "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
@@ -221,7 +228,9 @@
       "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
       "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
       "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
-      "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/"
+      "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+      "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
+      "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/"
     ],
     "softbank": [
       "https://group.softbank/news/press/20260924",

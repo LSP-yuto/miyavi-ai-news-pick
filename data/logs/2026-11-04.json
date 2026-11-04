@@ -1,0 +1,146 @@
+[
+  {
+    "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "source": "openai",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  },
+  {
+    "link": "https://openai.com/index/cisco-cyber",
+    "source": "openai",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  },
+  {
+    "link": "https://openai.com/index/heimstaden",
+    "source": "openai",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  },
+  {
+    "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+    "source": "openai",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  },
+  {
+    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "source": "openai",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  },
+  {
+    "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "source": "openai",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  },
+  {
+    "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "source": "deepmind",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  },
+  {
+    "link": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
+    "source": "nvidia",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  },
+  {
+    "link": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
+    "source": "nvidia",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  }
+]
