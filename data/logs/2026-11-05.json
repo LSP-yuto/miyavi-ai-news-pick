@@ -1,0 +1,82 @@
+[
+  {
+    "link": "https://openai.com/index/openai-to-acquire-pierre",
+    "source": "openai",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  },
+  {
+    "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "source": "openai",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  },
+  {
+    "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+    "source": "openai",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  },
+  {
+    "link": "https://openai.com/index/introducing-images-2-6",
+    "source": "openai",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  },
+  {
+    "link": "https://openai.com/index/devrev-enterprise-self-service",
+    "source": "openai",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  }
+]
