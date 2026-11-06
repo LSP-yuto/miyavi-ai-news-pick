@@ -112,7 +112,13 @@
       "https://openai.com/index/daybreak-red-aws-govcloud",
       "https://openai.com/index/a-thousand-fewer-paths-to-root",
       "https://openai.com/index/introducing-images-2-6",
-      "https://openai.com/index/devrev-enterprise-self-service"
+      "https://openai.com/index/devrev-enterprise-self-service",
+      "https://openai.com/index/cultfit-builds-with-codex",
+      "https://openai.com/index/introducing-gpt-6-cyber",
+      "https://openai.com/index/merge-builds-with-openai",
+      "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "https://openai.com/ads/customers/flipsnack",
+      "https://openai.com/index/franklin-templeton"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -164,7 +170,8 @@
       "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
       "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
       "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/"
+      "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/"
     ],
     "google-ai": [
       "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
@@ -174,7 +181,8 @@
       "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
       "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
       "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-      "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/"
+      "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
     ],
     "nvidia": [
       "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
@@ -235,7 +243,11 @@
       "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
       "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
       "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
-      "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/"
+      "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
+      "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
+      "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
+      "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
+      "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/"
     ],
     "softbank": [
       "https://group.softbank/news/press/20260924",
@@ -260,7 +272,8 @@
       "https://group.softbank/news/press/20261009",
       "https://group.softbank/news/press/20261023_0",
       "https://group.softbank/news/press/20261023",
-      "https://group.softbank/news/press/20261030"
+      "https://group.softbank/news/press/20261030",
+      "https://group.softbank/news/press/20261106"
     ],
     "microsoft": [
       "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
@@ -302,7 +315,9 @@
       "https://about.fb.com/news/2026/10/meta-partners-with-five-us-universities-to-accelerate-medical-and-scientific-breakthroughs/",
       "https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone/",
       "https://about.fb.com/news/2026/10/lavenir-appartient-a-tous-meta-et-inca-sassocient-pour-soutenir-les-personnes-aveugles-sourdes-et-aveugles-ou-ayant-une-basse-vision-au-canada/",
-      "https://about.fb.com/news/2026/10/the-future-is-for-everyone-meta-and-cnib-partner-to-support-canadians-who-are-blind-deafblind-or-have-low-vision/"
+      "https://about.fb.com/news/2026/10/the-future-is-for-everyone-meta-and-cnib-partner-to-support-canadians-who-are-blind-deafblind-or-have-low-vision/",
+      "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/",
+      "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/"
     ],
     "sakana": [
       "https://sakana.ai/frontier-intelligence-group/",
