@@ -118,7 +118,10 @@
       "https://openai.com/index/merge-builds-with-openai",
       "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
       "https://openai.com/ads/customers/flipsnack",
-      "https://openai.com/index/franklin-templeton"
+      "https://openai.com/index/franklin-templeton",
+      "https://openai.com/index/partnering-with-hacktron",
+      "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "https://openai.com/index/australian-universities-ai-native-graduates"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -247,7 +250,8 @@
       "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
       "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
       "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
-      "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/"
+      "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
+      "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/"
     ],
     "softbank": [
       "https://group.softbank/news/press/20260924",
@@ -317,7 +321,8 @@
       "https://about.fb.com/news/2026/10/lavenir-appartient-a-tous-meta-et-inca-sassocient-pour-soutenir-les-personnes-aveugles-sourdes-et-aveugles-ou-ayant-une-basse-vision-au-canada/",
       "https://about.fb.com/news/2026/10/the-future-is-for-everyone-meta-and-cnib-partner-to-support-canadians-who-are-blind-deafblind-or-have-low-vision/",
       "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/",
-      "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/"
+      "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
+      "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/"
     ],
     "sakana": [
       "https://sakana.ai/frontier-intelligence-group/",
