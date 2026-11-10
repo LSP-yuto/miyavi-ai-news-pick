@@ -121,7 +121,11 @@
       "https://openai.com/index/franklin-templeton",
       "https://openai.com/index/partnering-with-hacktron",
       "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "https://openai.com/index/australian-universities-ai-native-graduates"
+      "https://openai.com/index/australian-universities-ai-native-graduates",
+      "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "https://openai.com/index/control-room",
+      "https://openai.com/index/coderabbit-codex-daybreak",
+      "https://openai.com/index/kuken"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -251,7 +255,13 @@
       "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
       "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
       "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
-      "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/"
+      "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+      "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+      "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+      "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+      "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+      "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+      "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/"
     ],
     "softbank": [
       "https://group.softbank/news/press/20260924",
@@ -277,7 +287,9 @@
       "https://group.softbank/news/press/20261023_0",
       "https://group.softbank/news/press/20261023",
       "https://group.softbank/news/press/20261030",
-      "https://group.softbank/news/press/20261106"
+      "https://group.softbank/news/press/20261106",
+      "https://group.softbank/news/press/20261109_0",
+      "https://group.softbank/news/press/20261109"
     ],
     "microsoft": [
       "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
@@ -322,7 +334,8 @@
       "https://about.fb.com/news/2026/10/the-future-is-for-everyone-meta-and-cnib-partner-to-support-canadians-who-are-blind-deafblind-or-have-low-vision/",
       "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/",
       "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
-      "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/"
+      "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/",
+      "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/"
     ],
     "sakana": [
       "https://sakana.ai/frontier-intelligence-group/",
