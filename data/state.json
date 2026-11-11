@@ -125,7 +125,12 @@
       "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
       "https://openai.com/index/control-room",
       "https://openai.com/index/coderabbit-codex-daybreak",
-      "https://openai.com/index/kuken"
+      "https://openai.com/index/kuken",
+      "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "https://openai.com/index/introducing-businesses-chatgpt",
+      "https://openai.com/index/closing-ai-guidance-gap-education",
+      "https://openai.com/index/ai-effect-on-freelance-work"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -160,7 +165,8 @@
       "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
       "https://www.anthropic.com/news/s1-sec",
       "https://www.anthropic.com/news/expanding-partnership-gsa",
-      "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions"
+      "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+      "https://www.anthropic.com/news/roadshow-launch"
     ],
     "deepmind": [
       "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
@@ -178,7 +184,10 @@
       "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
       "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
       "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/"
+      "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"
     ],
     "google-ai": [
       "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
@@ -189,7 +198,10 @@
       "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
       "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
       "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+      "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
     ],
     "nvidia": [
       "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
@@ -261,7 +273,8 @@
       "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
       "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
       "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
-      "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/"
+      "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+      "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/"
     ],
     "softbank": [
       "https://group.softbank/news/press/20260924",
@@ -289,7 +302,9 @@
       "https://group.softbank/news/press/20261030",
       "https://group.softbank/news/press/20261106",
       "https://group.softbank/news/press/20261109_0",
-      "https://group.softbank/news/press/20261109"
+      "https://group.softbank/news/press/20261109",
+      "https://group.softbank/news/webcast/20261110_02",
+      "https://group.softbank/news/webcast/20261110_01"
     ],
     "microsoft": [
       "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
