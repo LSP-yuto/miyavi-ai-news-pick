@@ -130,7 +130,11 @@
       "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
       "https://openai.com/index/introducing-businesses-chatgpt",
       "https://openai.com/index/closing-ai-guidance-gap-education",
-      "https://openai.com/index/ai-effect-on-freelance-work"
+      "https://openai.com/index/ai-effect-on-freelance-work",
+      "https://openai.com/index/chatgpt-plus-for-veterans",
+      "https://openai.com/index/jiostar-vijay-seshadri",
+      "https://openai.com/index/singapore-airlines-travel-work",
+      "https://openai.com/index/cogent-security"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -187,7 +191,8 @@
       "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
       "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
       "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"
+      "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
     ],
     "google-ai": [
       "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
@@ -201,7 +206,10 @@
       "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
       "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
       "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-      "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
+      "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/"
     ],
     "nvidia": [
       "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
@@ -274,7 +282,8 @@
       "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
       "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
       "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
-      "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/"
+      "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+      "https://blogs.nvidia.com/blog/ai-recycling-startups/"
     ],
     "softbank": [
       "https://group.softbank/news/press/20260924",
@@ -304,7 +313,8 @@
       "https://group.softbank/news/press/20261109_0",
       "https://group.softbank/news/press/20261109",
       "https://group.softbank/news/webcast/20261110_02",
-      "https://group.softbank/news/webcast/20261110_01"
+      "https://group.softbank/news/webcast/20261110_01",
+      "https://group.softbank/news/webcast/20261110_03"
     ],
     "microsoft": [
       "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
@@ -490,7 +500,8 @@
       "https://sakana.ai/vp-of-gtm-interview/",
       "https://sakana.ai/us-midterms-analysis/",
       "https://sakana.ai/api-platform-earlyaccess/",
-      "https://sakana.ai/symposium-2026/"
+      "https://sakana.ai/symposium-2026/",
+      "https://sakana.ai/michael-tom/"
     ]
   }
 }
