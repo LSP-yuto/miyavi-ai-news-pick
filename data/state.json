@@ -134,7 +134,11 @@
       "https://openai.com/index/chatgpt-plus-for-veterans",
       "https://openai.com/index/jiostar-vijay-seshadri",
       "https://openai.com/index/singapore-airlines-travel-work",
-      "https://openai.com/index/cogent-security"
+      "https://openai.com/index/cogent-security",
+      "https://openai.com/business/customer-stories/amplitude",
+      "https://openai.com/business/customer-stories/gondola",
+      "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "https://openai.com/index/children-first-declaration"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -192,7 +196,8 @@
       "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
       "https://deepmind.google/blog/introducing-alphaproof-code/",
       "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-      "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+      "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
     ],
     "google-ai": [
       "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
@@ -209,7 +214,8 @@
       "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
       "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
       "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-      "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/"
+      "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+      "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
     ],
     "nvidia": [
       "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
@@ -283,7 +289,8 @@
       "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
       "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
       "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
-      "https://blogs.nvidia.com/blog/ai-recycling-startups/"
+      "https://blogs.nvidia.com/blog/ai-recycling-startups/",
+      "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/"
     ],
     "softbank": [
       "https://group.softbank/news/press/20260924",
@@ -325,7 +332,9 @@
       "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
       "https://blogs.microsoft.com/blog/2026/10/26/introducing-a-voluntary-exit-offer/",
       "https://blogs.microsoft.com/blog/2026/10/27/the-platform-approach-to-becoming-frontier/",
-      "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/"
+      "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/",
+      "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
+      "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/"
     ],
     "meta": [
       "https://about.fb.com/news/2026/09/new-features-for-meta-ray-ban-display-navigation-hologram/",
@@ -360,7 +369,8 @@
       "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/",
       "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
       "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/",
-      "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/"
+      "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
+      "https://about.fb.com/news/2026/11/meta-new-agreements-clean-manufacturing-data-center-supply-chains/"
     ],
     "sakana": [
       "https://sakana.ai/frontier-intelligence-group/",

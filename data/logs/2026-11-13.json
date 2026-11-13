@@ -1,0 +1,162 @@
+[
+  {
+    "link": "https://openai.com/business/customer-stories/amplitude",
+    "source": "openai",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  },
+  {
+    "link": "https://openai.com/business/customer-stories/gondola",
+    "source": "openai",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  },
+  {
+    "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "source": "openai",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  },
+  {
+    "link": "https://openai.com/index/children-first-declaration",
+    "source": "openai",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  },
+  {
+    "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "source": "deepmind",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+    "source": "google-ai",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  },
+  {
+    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
+    "source": "nvidia",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  },
+  {
+    "link": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
+    "source": "microsoft",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  },
+  {
+    "link": "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/",
+    "source": "microsoft",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  },
+  {
+    "link": "https://about.fb.com/news/2026/11/meta-new-agreements-clean-manufacturing-data-center-supply-chains/",
+    "source": "meta",
+    "attempts": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      },
+      {
+        "error": "401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+      }
+    ],
+    "status": "held"
+  }
+]
