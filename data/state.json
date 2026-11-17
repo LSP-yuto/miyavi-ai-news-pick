@@ -142,7 +142,16 @@
       "https://openai.com/index/introducing-chatgpt-wallet",
       "https://openai.com/business/customer-stories/shield",
       "https://openai.com/index/step-toward-defining-the-standard-model",
-      "https://openai.com/index/our-new-blog-for-science"
+      "https://openai.com/index/our-new-blog-for-science",
+      "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "https://openai.com/index/strengthening-online-child-safety",
+      "https://openai.com/index/science-at-the-frontier",
+      "https://openai.com/index/lvmh-media-division-partnership",
+      "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "https://openai.com/index/the-kings-trust-and-openai",
+      "https://openai.com/business/customer-stories/holiday-extras-dots"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -219,7 +228,8 @@
       "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
       "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
       "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-      "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
+      "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/"
     ],
     "nvidia": [
       "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
@@ -296,7 +306,15 @@
       "https://blogs.nvidia.com/blog/ai-recycling-startups/",
       "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
       "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
-      "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/"
+      "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+      "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+      "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
+      "https://blogs.nvidia.com/blog/lambda-photonics/",
+      "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/",
+      "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+      "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
+      "https://blogs.nvidia.com/blog/20-years-cuda/",
+      "https://blogs.nvidia.com/blog/rubin-hpc/"
     ],
     "softbank": [
       "https://group.softbank/news/press/20260924",
@@ -377,7 +395,9 @@
       "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
       "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/",
       "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
-      "https://about.fb.com/news/2026/11/meta-new-agreements-clean-manufacturing-data-center-supply-chains/"
+      "https://about.fb.com/news/2026/11/meta-new-agreements-clean-manufacturing-data-center-supply-chains/",
+      "https://about.fb.com/news/2026/11/introducing-direct-an-app-just-for-messaging/",
+      "https://about.fb.com/news/2026/11/94-of-singapore-small-business-owners-surveyed-say-more-ai-guidance-is-needed/"
     ],
     "sakana": [
       "https://sakana.ai/frontier-intelligence-group/",
@@ -518,7 +538,8 @@
       "https://sakana.ai/us-midterms-analysis/",
       "https://sakana.ai/api-platform-earlyaccess/",
       "https://sakana.ai/symposium-2026/",
-      "https://sakana.ai/michael-tom/"
+      "https://sakana.ai/michael-tom/",
+      "https://sakana.ai/jfinbench/"
     ]
   }
 }
