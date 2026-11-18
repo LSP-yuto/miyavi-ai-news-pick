@@ -151,7 +151,13 @@
       "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
       "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
       "https://openai.com/index/the-kings-trust-and-openai",
-      "https://openai.com/business/customer-stories/holiday-extras-dots"
+      "https://openai.com/business/customer-stories/holiday-extras-dots",
+      "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "https://openai.com/index/introducing-chatgpt-for-sales",
+      "https://openai.com/index/astra-law-6-2",
+      "https://openai.com/index/introducing-openai-for-chile",
+      "https://openai.com/business/customer-stories/revolut"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -229,7 +235,8 @@
       "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
       "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
       "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/"
+      "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
     ],
     "nvidia": [
       "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
@@ -314,7 +321,8 @@
       "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
       "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
       "https://blogs.nvidia.com/blog/20-years-cuda/",
-      "https://blogs.nvidia.com/blog/rubin-hpc/"
+      "https://blogs.nvidia.com/blog/rubin-hpc/",
+      "https://blogs.nvidia.com/blog/ian-buck-sc26/"
     ],
     "softbank": [
       "https://group.softbank/news/press/20260924",
@@ -359,7 +367,8 @@
       "https://blogs.microsoft.com/blog/2026/10/27/the-platform-approach-to-becoming-frontier/",
       "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/",
       "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
-      "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/"
+      "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/",
+      "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/"
     ],
     "meta": [
       "https://about.fb.com/news/2026/09/new-features-for-meta-ray-ban-display-navigation-hologram/",
@@ -397,7 +406,9 @@
       "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
       "https://about.fb.com/news/2026/11/meta-new-agreements-clean-manufacturing-data-center-supply-chains/",
       "https://about.fb.com/news/2026/11/introducing-direct-an-app-just-for-messaging/",
-      "https://about.fb.com/news/2026/11/94-of-singapore-small-business-owners-surveyed-say-more-ai-guidance-is-needed/"
+      "https://about.fb.com/news/2026/11/94-of-singapore-small-business-owners-surveyed-say-more-ai-guidance-is-needed/",
+      "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+      "https://about.fb.com/news/2026/11/an-update-on-the-content-we-recommend-on-instagram-in-india/"
     ],
     "sakana": [
       "https://sakana.ai/frontier-intelligence-group/",
