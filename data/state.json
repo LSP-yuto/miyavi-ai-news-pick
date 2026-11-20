@@ -164,7 +164,12 @@
       "https://openai.com/index/inside-the-codex-sandbox",
       "https://openai.com/index/managing-frontier-ai-risk",
       "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "https://openai.com/index/advancing-chip-design-with-our-models"
+      "https://openai.com/index/advancing-chip-design-with-our-models",
+      "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "https://openai.com/business/learn/deploying-daybreak-red",
+      "https://openai.com/business/learn/pr-scans-demo",
+      "https://openai.com/business/learn/codex-security-plugin-demo",
+      "https://openai.com/business/learn/daybreak-blue-onboarding-demo"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -247,7 +252,9 @@
       "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
       "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
       "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-      "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/"
+      "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/"
     ],
     "nvidia": [
       "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
@@ -334,7 +341,9 @@
       "https://blogs.nvidia.com/blog/20-years-cuda/",
       "https://blogs.nvidia.com/blog/rubin-hpc/",
       "https://blogs.nvidia.com/blog/ian-buck-sc26/",
-      "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/"
+      "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
+      "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+      "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/"
     ],
     "softbank": [
       "https://group.softbank/news/press/20260924",
@@ -422,7 +431,9 @@
       "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
       "https://about.fb.com/news/2026/11/an-update-on-the-content-we-recommend-on-instagram-in-india/",
       "https://about.fb.com/news/2026/11/our-approach-to-updating-our-commercial-terms-of-service/",
-      "https://about.fb.com/news/2026/11/meta-welcomes-loblaw-as-first-canadian-retail-partner-to-muse/"
+      "https://about.fb.com/news/2026/11/meta-welcomes-loblaw-as-first-canadian-retail-partner-to-muse/",
+      "https://about.fb.com/news/2026/11/meta-premieres-indias-first-government-led-microdrama-series-on-scams-awareness/",
+      "https://about.fb.com/news/2026/11/forum-a-dedicated-app-for-facebook-groups-is-now-available-in-indonesia/"
     ],
     "sakana": [
       "https://sakana.ai/frontier-intelligence-group/",
@@ -564,7 +575,8 @@
       "https://sakana.ai/api-platform-earlyaccess/",
       "https://sakana.ai/symposium-2026/",
       "https://sakana.ai/michael-tom/",
-      "https://sakana.ai/jfinbench/"
+      "https://sakana.ai/jfinbench/",
+      "https://sakana.ai/security-research-group/"
     ]
   }
 }
