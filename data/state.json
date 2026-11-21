@@ -169,7 +169,10 @@
       "https://openai.com/business/learn/deploying-daybreak-red",
       "https://openai.com/business/learn/pr-scans-demo",
       "https://openai.com/business/learn/codex-security-plugin-demo",
-      "https://openai.com/business/learn/daybreak-blue-onboarding-demo"
+      "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "https://openai.com/index/combatting-adversarial-distillation",
+      "https://openai.com/business/customer-stories/hebbia",
+      "https://openai.com/index/introducing-medchembench"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -206,7 +209,8 @@
       "https://www.anthropic.com/news/expanding-partnership-gsa",
       "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
       "https://www.anthropic.com/news/roadshow-launch",
-      "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+      "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "https://www.anthropic.com/news/ipo-close"
     ],
     "deepmind": [
       "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
@@ -433,7 +437,8 @@
       "https://about.fb.com/news/2026/11/our-approach-to-updating-our-commercial-terms-of-service/",
       "https://about.fb.com/news/2026/11/meta-welcomes-loblaw-as-first-canadian-retail-partner-to-muse/",
       "https://about.fb.com/news/2026/11/meta-premieres-indias-first-government-led-microdrama-series-on-scams-awareness/",
-      "https://about.fb.com/news/2026/11/forum-a-dedicated-app-for-facebook-groups-is-now-available-in-indonesia/"
+      "https://about.fb.com/news/2026/11/forum-a-dedicated-app-for-facebook-groups-is-now-available-in-indonesia/",
+      "https://about.fb.com/news/2026/11/advancing-science-together-highlights-from-the-open-source-ai-for-science-summit/"
     ],
     "sakana": [
       "https://sakana.ai/frontier-intelligence-group/",
