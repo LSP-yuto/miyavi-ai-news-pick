@@ -173,7 +173,10 @@
       "https://openai.com/index/combatting-adversarial-distillation",
       "https://openai.com/business/customer-stories/hebbia",
       "https://openai.com/index/introducing-medchembench",
-      "https://openai.com/index/perplexity-and-intelligence"
+      "https://openai.com/index/perplexity-and-intelligence",
+      "https://openai.com/index/introducing-shirudo",
+      "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -236,7 +239,8 @@
       "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
       "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
       "https://deepmind.google/blog/introducing-gemini-4-neon/",
-      "https://deepmind.google/blog/genie-4-is-now-available/"
+      "https://deepmind.google/blog/genie-4-is-now-available/",
+      "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
     ],
     "google-ai": [
       "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
@@ -259,7 +263,8 @@
       "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
       "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
       "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-      "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/"
+      "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
     ],
     "nvidia": [
       "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
@@ -348,7 +353,8 @@
       "https://blogs.nvidia.com/blog/ian-buck-sc26/",
       "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
       "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
-      "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/"
+      "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
+      "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/"
     ],
     "softbank": [
       "https://group.softbank/news/press/20260924",
@@ -380,7 +386,8 @@
       "https://group.softbank/news/webcast/20261110_02",
       "https://group.softbank/news/webcast/20261110_01",
       "https://group.softbank/news/webcast/20261110_03",
-      "https://group.softbank/news/webcast/20261111"
+      "https://group.softbank/news/webcast/20261111",
+      "https://group.softbank/news/press/20261123"
     ],
     "microsoft": [
       "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
@@ -439,7 +446,8 @@
       "https://about.fb.com/news/2026/11/meta-welcomes-loblaw-as-first-canadian-retail-partner-to-muse/",
       "https://about.fb.com/news/2026/11/meta-premieres-indias-first-government-led-microdrama-series-on-scams-awareness/",
       "https://about.fb.com/news/2026/11/forum-a-dedicated-app-for-facebook-groups-is-now-available-in-indonesia/",
-      "https://about.fb.com/news/2026/11/advancing-science-together-highlights-from-the-open-source-ai-for-science-summit/"
+      "https://about.fb.com/news/2026/11/advancing-science-together-highlights-from-the-open-source-ai-for-science-summit/",
+      "https://about.fb.com/news/2026/11/researchers-using-meta-open-weight-ai-models-medical-breakthroughs/"
     ],
     "sakana": [
       "https://sakana.ai/frontier-intelligence-group/",
@@ -582,7 +590,8 @@
       "https://sakana.ai/symposium-2026/",
       "https://sakana.ai/michael-tom/",
       "https://sakana.ai/jfinbench/",
-      "https://sakana.ai/security-research-group/"
+      "https://sakana.ai/security-research-group/",
+      "https://sakana.ai/applied-research-lab/"
     ]
   }
 }
