@@ -176,7 +176,12 @@
       "https://openai.com/index/perplexity-and-intelligence",
       "https://openai.com/index/introducing-shirudo",
       "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-      "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
+      "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "https://openai.com/business/customer-stories/intentful-dots",
+      "https://openai.com/business/customer-stories/ifood",
+      "https://openai.com/business/customer-stories/clay-plugins-openai"
     ],
     "anthropic": [
       "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -264,7 +269,8 @@
       "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
       "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
       "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-      "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
+      "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/"
     ],
     "nvidia": [
       "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
@@ -447,7 +453,9 @@
       "https://about.fb.com/news/2026/11/meta-premieres-indias-first-government-led-microdrama-series-on-scams-awareness/",
       "https://about.fb.com/news/2026/11/forum-a-dedicated-app-for-facebook-groups-is-now-available-in-indonesia/",
       "https://about.fb.com/news/2026/11/advancing-science-together-highlights-from-the-open-source-ai-for-science-summit/",
-      "https://about.fb.com/news/2026/11/researchers-using-meta-open-weight-ai-models-medical-breakthroughs/"
+      "https://about.fb.com/news/2026/11/researchers-using-meta-open-weight-ai-models-medical-breakthroughs/",
+      "https://about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control/",
+      "https://about.fb.com/news/2026/11/muse-now-available-in-the-uk-muse-does-the-work-you-stay-in-control/"
     ],
     "sakana": [
       "https://sakana.ai/frontier-intelligence-group/",
@@ -591,7 +599,8 @@
       "https://sakana.ai/michael-tom/",
       "https://sakana.ai/jfinbench/",
       "https://sakana.ai/security-research-group/",
-      "https://sakana.ai/applied-research-lab/"
+      "https://sakana.ai/applied-research-lab/",
+      "https://sakana.ai/namazu-small/"
     ]
   }
 }
