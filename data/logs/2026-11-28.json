@@ -1,0 +1,25 @@
+[
+  {
+    "link": "https://about.fb.com/news/2026/11/instagram-for-tv-comes-to-india-introducing-new-ways-to-watch-reels-together/",
+    "source": "meta",
+    "attempts": [
+      {
+        "result": {
+          "importance": 2,
+          "headline": "Instagram TV版、インド市場で展開開始へ",
+          "fact": "Metaがインド向けにInstagram for TVを提供開始。テレビの大画面でクリエイターのReelsコンテンツを視聴でき、友人と一緒に楽しめる新しい視聴体験を提供する動き。",
+          "why": "インドはビデオ消費が急速に増えており、テレビという家庭内のデバイスへの拡張は、より多くのユーザーをプラットフォームに取り込む可能性がある。広告商機の拡大にもつながる可能性がある。",
+          "for_agency": "インド市場でクライアント向けInstagramキャンペーンを展開する際、テレビ視聴という新しいタッチポイントが追加される見込み。Reels中心のコンテンツ戦略で、より広いスクリーンでの見え方も設計する必要が出てくるかもしれない。",
+          "for_solo": "インドを含むアジア太平洋地域でInstagramを活用したビジネスを展開している場合、Reels制作のプライオリティがさらに高まる可能性。テレビ向けに最適化されたコンテンツ制作のニーズが生まれるかもしれない。",
+          "tags": [
+            "Meta",
+            "Instagram",
+            "インド"
+          ]
+        },
+        "problems": []
+      }
+    ],
+    "status": "skipped_low_importance"
+  }
+]
